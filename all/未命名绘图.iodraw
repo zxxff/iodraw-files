@@ -19,6 +19,9 @@
         <mxCell id="caOr809nhuQtyADXkPZw-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="caOr809nhuQtyADXkPZw-4" target="caOr809nhuQtyADXkPZw-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="caOr809nhuQtyADXkPZw-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="caOr809nhuQtyADXkPZw-4" target="caOr809nhuQtyADXkPZw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="caOr809nhuQtyADXkPZw-4" value="AI：测试步骤" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="410" width="120" height="60" as="geometry" />
         </mxCell>
@@ -27,9 +30,6 @@
         </mxCell>
         <mxCell id="caOr809nhuQtyADXkPZw-8" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="caOr809nhuQtyADXkPZw-11" value="✅" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470" y="518" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
