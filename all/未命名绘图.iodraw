@@ -74,12 +74,12 @@
         <mxCell id="caOr809nhuQtyADXkPZw-32" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;难：&lt;/div&gt;前置条件&lt;div&gt;测试步骤&lt;/div&gt;&lt;div&gt;预期结果&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="215" y="358" width="70" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="caOr809nhuQtyADXkPZw-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="caOr809nhuQtyADXkPZw-34" value="AI：所有用例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="298" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="caOr809nhuQtyADXkPZw-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="caOr809nhuQtyADXkPZw-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="300" as="sourcePoint" />
+            <mxPoint x="610" y="280" as="sourcePoint" />
             <mxPoint x="770" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
