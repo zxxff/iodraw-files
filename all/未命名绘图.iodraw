@@ -20,16 +20,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="caOr809nhuQtyADXkPZw-4" value="AI：测试步骤" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="caOr809nhuQtyADXkPZw-6" value="✅" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="350" width="40" height="30" as="geometry" />
+          <mxGeometry x="373" y="370" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="caOr809nhuQtyADXkPZw-8" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="caOr809nhuQtyADXkPZw-16" value="人工：过程提示" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="caOr809nhuQtyADXkPZw-18" value="✅" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="383" y="380" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
