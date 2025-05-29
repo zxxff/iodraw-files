@@ -116,11 +116,20 @@
         <mxCell id="caOr809nhuQtyADXkPZw-45" value="辅助编写" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="328" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="caOr809nhuQtyADXkPZw-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="caOr809nhuQtyADXkPZw-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="caOr809nhuQtyADXkPZw-48" target="caOr809nhuQtyADXkPZw-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="360" as="sourcePoint" />
             <mxPoint x="610" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="caOr809nhuQtyADXkPZw-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="caOr809nhuQtyADXkPZw-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="360" as="sourcePoint" />
+            <mxPoint x="500" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="caOr809nhuQtyADXkPZw-48" value="❌" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="360" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
