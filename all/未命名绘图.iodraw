@@ -38,7 +38,7 @@
           <mxGeometry x="540" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="caOr809nhuQtyADXkPZw-18" value="✅" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="740" y="380" width="40" height="30" as="geometry" />
+          <mxGeometry x="740" y="440" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="caOr809nhuQtyADXkPZw-20" value="回传，结果合并" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="500" width="120" height="60" as="geometry" />
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="caOr809nhuQtyADXkPZw-25" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="caOr809nhuQtyADXkPZw-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
