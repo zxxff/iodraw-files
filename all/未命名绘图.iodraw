@@ -114,7 +114,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="caOr809nhuQtyADXkPZw-65" value="AI: 依据测试步骤/用户提示&amp;nbsp;&lt;div&gt;--&amp;gt; 预期结果&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="490" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="caOr809nhuQtyADXkPZw-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="caOr809nhuQtyADXkPZw-60" target="caOr809nhuQtyADXkPZw-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -135,13 +135,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="caOr809nhuQtyADXkPZw-70" value="人工：优化预期结果" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="caOr809nhuQtyADXkPZw-72" value="✅" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="620" y="490" width="40" height="30" as="geometry" />
+          <mxGeometry x="650" y="490" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="caOr809nhuQtyADXkPZw-73" value="结果合并" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="870" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
