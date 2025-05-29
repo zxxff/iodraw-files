@@ -10,11 +10,13 @@
         <mxCell id="caOr809nhuQtyADXkPZw-1" value="AI： 测试思路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="caOr809nhuQtyADXkPZw-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="caOr809nhuQtyADXkPZw-2" target="caOr809nhuQtyADXkPZw-22">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="caOr809nhuQtyADXkPZw-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="caOr809nhuQtyADXkPZw-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="caOr809nhuQtyADXkPZw-2" value="开始/上传文件，需求" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="caOr809nhuQtyADXkPZw-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="caOr809nhuQtyADXkPZw-4" target="caOr809nhuQtyADXkPZw-8">
           <mxGeometry relative="1" as="geometry" />
@@ -46,20 +48,22 @@
         <mxCell id="caOr809nhuQtyADXkPZw-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="caOr809nhuQtyADXkPZw-22" target="caOr809nhuQtyADXkPZw-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="caOr809nhuQtyADXkPZw-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="caOr809nhuQtyADXkPZw-22" target="caOr809nhuQtyADXkPZw-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="caOr809nhuQtyADXkPZw-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="caOr809nhuQtyADXkPZw-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="280" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="caOr809nhuQtyADXkPZw-22" value="问题分类" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="400" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="caOr809nhuQtyADXkPZw-25" value="AI：全篇用例" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="caOr809nhuQtyADXkPZw-28" value="辅助编写" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="360" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="caOr809nhuQtyADXkPZw-29" value="生成用例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470" y="290" width="70" height="30" as="geometry" />
+          <mxGeometry x="470" y="250" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
