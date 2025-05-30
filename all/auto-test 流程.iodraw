@@ -147,7 +147,7 @@
           <mxGeometry x="190" y="770" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2f-LU5BmPnD3V4UY814b-4" value="整体事件理解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="525" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2f-LU5BmPnD3V4UY814b-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2f-LU5BmPnD3V4UY814b-5" target="2f-LU5BmPnD3V4UY814b-8">
           <mxGeometry relative="1" as="geometry" />
@@ -158,8 +158,14 @@
         <mxCell id="2f-LU5BmPnD3V4UY814b-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Models&lt;/h1&gt;&lt;p&gt;Vision：qwen-vl-max 32K、&lt;span style=&quot;background-color: initial;&quot;&gt;qwen-vl-max-Lastest 128K&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="730" width="180" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="2f-LU5BmPnD3V4UY814b-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2f-LU5BmPnD3V4UY814b-8" target="2f-LU5BmPnD3V4UY814b-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2f-LU5BmPnD3V4UY814b-8" value="images" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2f-LU5BmPnD3V4UY814b-10" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
