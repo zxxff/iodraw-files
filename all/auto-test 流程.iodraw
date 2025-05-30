@@ -143,7 +143,7 @@
         <mxCell id="caOr809nhuQtyADXkPZw-73" value="结果合并" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="caOr809nhuQtyADXkPZw-81" value="开始" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="caOr809nhuQtyADXkPZw-81" value="vision方案" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="770" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
