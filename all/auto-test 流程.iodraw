@@ -189,13 +189,16 @@
         <mxCell id="2f-LU5BmPnD3V4UY814b-18" value="文档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="154" y="1169" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2f-LU5BmPnD3V4UY814b-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2f-LU5BmPnD3V4UY814b-19" target="2f-LU5BmPnD3V4UY814b-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2f-LU5BmPnD3V4UY814b-19" value="图片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="154" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2f-LU5BmPnD3V4UY814b-20" value="大模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2f-LU5BmPnD3V4UY814b-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2f-LU5BmPnD3V4UY814b-21" value="嵌入图片描述的文档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
