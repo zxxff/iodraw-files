@@ -201,6 +201,12 @@
         <mxCell id="2f-LU5BmPnD3V4UY814b-21" value="嵌入图片描述的文档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2f-LU5BmPnD3V4UY814b-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2f-LU5BmPnD3V4UY814b-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="1200" as="sourcePoint" />
+            <mxPoint x="340" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
