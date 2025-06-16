@@ -271,7 +271,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-11" value="AI： 测试思路" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="410" y="2020" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="2100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="2zt-B7qnndHhOCMfV_Zz-13">
           <mxGeometry relative="1" as="geometry">
@@ -285,28 +285,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-15" value="AI：测试步骤" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="730" y="2020" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="2100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-16" value="✅" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="530" y="2020" width="40" height="30" as="geometry" />
+          <mxGeometry x="520" y="2100" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="2zt-B7qnndHhOCMfV_Zz-18" target="2zt-B7qnndHhOCMfV_Zz-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-18" value="人工：优化测试步骤" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="900" y="2020" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="2100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="2zt-B7qnndHhOCMfV_Zz-20" target="2zt-B7qnndHhOCMfV_Zz-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-20" value="人工：步骤过程提示" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="2020" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="2100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-21" value="✅" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="850" y="2020" width="40" height="30" as="geometry" />
+          <mxGeometry x="840" y="2100" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-22" value="结果合并" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="2020" width="120" height="60" as="geometry" />
+          <mxGeometry x="1040" y="2100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="2zt-B7qnndHhOCMfV_Zz-26">
           <mxGeometry relative="1" as="geometry">
@@ -329,7 +329,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-29" value="人工：优化用例" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1870" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="1880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-30" value="✅" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="590" y="1870" width="40" height="30" as="geometry" />
