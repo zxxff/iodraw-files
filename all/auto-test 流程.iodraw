@@ -244,7 +244,7 @@
           <mxGeometry x="250" y="1380" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-1" value="user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="878" y="1858" width="30" height="60" as="geometry" />
+          <mxGeometry x="878" y="1858" width="14" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="2zt-B7qnndHhOCMfV_Zz-2" target="2zt-B7qnndHhOCMfV_Zz-4">
           <mxGeometry relative="1" as="geometry" />
@@ -278,7 +278,7 @@
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-13" value="开始/上传文件，需求" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="140" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2zt-B7qnndHhOCMfV_Zz-15" value="AI：测试步骤" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="2zt-B7qnndHhOCMfV_Zz-15" value="AI：测试步骤" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;arcSize=23;" vertex="1" parent="1">
           <mxGeometry x="620" y="2098" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-22" value="结果合并" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
