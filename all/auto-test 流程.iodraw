@@ -434,8 +434,8 @@
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-77" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;创建逻辑能力强模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="560" y="2647" width="114" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2zt-B7qnndHhOCMfV_Zz-78" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="242" y="2658" width="60" height="30" as="geometry" />
+        <mxCell id="2zt-B7qnndHhOCMfV_Zz-78" value="python" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="247" y="2644" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
