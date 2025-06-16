@@ -282,7 +282,7 @@
           <mxGeometry x="140" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-22" value="结果合并" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="755" y="2100" width="120" height="60" as="geometry" />
+          <mxGeometry x="772" y="2100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="2zt-B7qnndHhOCMfV_Zz-26">
           <mxGeometry relative="1" as="geometry">
@@ -375,6 +375,9 @@
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-58" value="AI：测试思路/步骤/建议" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="566" y="2100" width="136" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2zt-B7qnndHhOCMfV_Zz-61" value="✅满意" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="710" y="2095" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
