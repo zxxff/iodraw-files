@@ -376,7 +376,7 @@
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="2zt-B7qnndHhOCMfV_Zz-58" target="2zt-B7qnndHhOCMfV_Zz-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2zt-B7qnndHhOCMfV_Zz-58" value="AI：测试思路/步骤/建议" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="2zt-B7qnndHhOCMfV_Zz-58" value="AI：测试步骤&lt;br&gt;思路/编写/建议" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="546" y="2093" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-61" value="✅满意" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
@@ -395,7 +395,7 @@
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-64" value="❌不满意" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="487" y="2203" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2zt-B7qnndHhOCMfV_Zz-66" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2zt-B7qnndHhOCMfV_Zz-22">
+        <mxCell id="2zt-B7qnndHhOCMfV_Zz-66" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.558;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2zt-B7qnndHhOCMfV_Zz-22" target="2zt-B7qnndHhOCMfV_Zz-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="836" y="2041" as="sourcePoint" />
             <mxPoint x="886" y="1991" as="targetPoint" />
