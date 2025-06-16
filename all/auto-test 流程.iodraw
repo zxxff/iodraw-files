@@ -252,8 +252,14 @@
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="460" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2zt-B7qnndHhOCMfV_Zz-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="2zt-B7qnndHhOCMfV_Zz-4" target="2zt-B7qnndHhOCMfV_Zz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-4" value="上传需求文档" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="660" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2zt-B7qnndHhOCMfV_Zz-6" value="大模型生成" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
