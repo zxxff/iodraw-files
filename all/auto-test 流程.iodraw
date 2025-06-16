@@ -373,24 +373,6 @@
             <mxPoint x="660" y="2020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2zt-B7qnndHhOCMfV_Zz-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="2zt-B7qnndHhOCMfV_Zz-37">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="2310" as="sourcePoint" />
-            <mxPoint x="410" y="2140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2zt-B7qnndHhOCMfV_Zz-44" value="..." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="410" y="2210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2zt-B7qnndHhOCMfV_Zz-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="2zt-B7qnndHhOCMfV_Zz-38" target="2zt-B7qnndHhOCMfV_Zz-44">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="2320" as="sourcePoint" />
-            <mxPoint x="310" y="2270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2zt-B7qnndHhOCMfV_Zz-49" value="结果合并" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="780" y="2110" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
