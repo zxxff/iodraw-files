@@ -267,8 +267,10 @@
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-8" value="结果" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="925.5" y="1620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2zt-B7qnndHhOCMfV_Zz-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="2zt-B7qnndHhOCMfV_Zz-11" target="2zt-B7qnndHhOCMfV_Zz-20">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2zt-B7qnndHhOCMfV_Zz-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="2zt-B7qnndHhOCMfV_Zz-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="2130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-11" value="AI： 测试思路" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="400" y="2100" width="120" height="60" as="geometry" />
@@ -281,29 +283,11 @@
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-13" value="开始/上传文件，需求" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="140" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2zt-B7qnndHhOCMfV_Zz-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="2zt-B7qnndHhOCMfV_Zz-15" target="2zt-B7qnndHhOCMfV_Zz-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-15" value="AI：测试步骤" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="720" y="2100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-16" value="✅" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="520" y="2100" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2zt-B7qnndHhOCMfV_Zz-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="2zt-B7qnndHhOCMfV_Zz-18" target="2zt-B7qnndHhOCMfV_Zz-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2zt-B7qnndHhOCMfV_Zz-18" value="人工：优化测试步骤" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="890" y="2100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2zt-B7qnndHhOCMfV_Zz-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="2zt-B7qnndHhOCMfV_Zz-20" target="2zt-B7qnndHhOCMfV_Zz-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2zt-B7qnndHhOCMfV_Zz-20" value="人工：步骤过程提示" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="560" y="2100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2zt-B7qnndHhOCMfV_Zz-21" value="✅" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="840" y="2100" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-22" value="结果合并" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1040" y="2100" width="120" height="60" as="geometry" />
@@ -316,8 +300,10 @@
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-24" value="问题分类" style="rhombus;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="310" y="1860" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2zt-B7qnndHhOCMfV_Zz-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="2zt-B7qnndHhOCMfV_Zz-26" target="2zt-B7qnndHhOCMfV_Zz-29">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2zt-B7qnndHhOCMfV_Zz-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="2zt-B7qnndHhOCMfV_Zz-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="1910" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-26" value="AI：生成用例" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="470" y="1870" width="120" height="60" as="geometry" />
@@ -325,11 +311,10 @@
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-27" value="生成用例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="380" y="1870" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2zt-B7qnndHhOCMfV_Zz-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="2zt-B7qnndHhOCMfV_Zz-29" target="2zt-B7qnndHhOCMfV_Zz-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2zt-B7qnndHhOCMfV_Zz-29" value="人工：优化用例" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1880" width="120" height="60" as="geometry" />
+        <mxCell id="2zt-B7qnndHhOCMfV_Zz-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="2zt-B7qnndHhOCMfV_Zz-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="1910" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-30" value="✅" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="590" y="1870" width="40" height="30" as="geometry" />
