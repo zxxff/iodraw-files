@@ -298,21 +298,13 @@
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-27" value="生成用例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="380" y="1870" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2zt-B7qnndHhOCMfV_Zz-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="2zt-B7qnndHhOCMfV_Zz-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="1910" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2zt-B7qnndHhOCMfV_Zz-30" value="✅" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1870" width="40" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-31" value="❌" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="395" y="1960" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-32" value="辅助编写" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="254" y="1978" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2zt-B7qnndHhOCMfV_Zz-33" value="结束" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="2zt-B7qnndHhOCMfV_Zz-33" value="输出结果" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="780" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="2zt-B7qnndHhOCMfV_Zz-36" target="2zt-B7qnndHhOCMfV_Zz-11">
