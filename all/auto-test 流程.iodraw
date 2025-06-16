@@ -279,7 +279,7 @@
           <mxGeometry x="140" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-15" value="AI：测试步骤" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="720" y="2100" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="2098" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-22" value="结果合并" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1040" y="2100" width="120" height="60" as="geometry" />
