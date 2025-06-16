@@ -298,8 +298,8 @@
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-26" value="AI：生成用例" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="470" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2zt-B7qnndHhOCMfV_Zz-27" value="生成用例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1870" width="70" height="30" as="geometry" />
+        <mxCell id="2zt-B7qnndHhOCMfV_Zz-27" value="直接创建" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="382" y="1872" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-31" value="❌不满意" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="373" y="1968" width="70" height="30" as="geometry" />
@@ -361,12 +361,12 @@
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-56" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="2425" as="sourcePoint" />
-            <mxPoint x="1243" y="2415" as="targetPoint" />
+            <mxPoint x="1241" y="2448" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-57" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1245" y="2412" as="sourcePoint" />
+            <mxPoint x="1245" y="2443" as="sourcePoint" />
             <mxPoint x="1238" y="2043" as="targetPoint" />
           </mxGeometry>
         </mxCell>
