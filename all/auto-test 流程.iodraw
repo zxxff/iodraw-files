@@ -282,7 +282,7 @@
           <mxGeometry x="140" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-22" value="结果合并" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="842" y="2100" width="120" height="60" as="geometry" />
+          <mxGeometry x="755" y="2100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="2zt-B7qnndHhOCMfV_Zz-26">
           <mxGeometry relative="1" as="geometry">
@@ -369,6 +369,9 @@
             <mxPoint x="1245" y="2443" as="sourcePoint" />
             <mxPoint x="1238" y="2043" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2zt-B7qnndHhOCMfV_Zz-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="2zt-B7qnndHhOCMfV_Zz-58" target="2zt-B7qnndHhOCMfV_Zz-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2zt-B7qnndHhOCMfV_Zz-58" value="AI：测试思路/步骤/建议" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="566" y="2100" width="136" height="60" as="geometry" />
