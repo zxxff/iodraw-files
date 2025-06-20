@@ -440,8 +440,8 @@
         <mxCell id="MEY32uZbZNNeNBk3Q4yV-1" value="原文档" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="72" y="2882" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MEY32uZbZNNeNBk3Q4yV-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;操作手册处理方案&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="193" y="2738" width="180" height="120" as="geometry" />
+        <mxCell id="MEY32uZbZNNeNBk3Q4yV-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;操作手册处理方案&lt;/h1&gt;&lt;p&gt;切&lt;/p&gt;&lt;p&gt;AI处理&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="68" y="2726" width="478" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
