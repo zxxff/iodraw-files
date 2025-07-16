@@ -10,6 +10,9 @@
         <mxCell id="gd7uKZR3bji6NFRngxoy-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;长任务框架&lt;/h1&gt;&lt;p&gt;AI处理长流程任务过程中，将流程划分，适当“放缓“处理的速度，将有效提升任务的整体效率&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="60" y="368" width="180" height="157" as="geometry" />
         </mxCell>
+        <mxCell id="gd7uKZR3bji6NFRngxoy-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="455" y="298" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
