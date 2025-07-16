@@ -5,9 +5,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gd7uKZR3bji6NFRngxoy-1" value="长文本处理" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="290" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gd7uKZR3bji6NFRngxoy-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="gd7uKZR3bji6NFRngxoy-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;长文本处理&lt;/h1&gt;&lt;p&gt;将长文本内容，以合理的逻辑划分，处理成多份子任务，将强有利于模型的输出&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="270" y="140" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
