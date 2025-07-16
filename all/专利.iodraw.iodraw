@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gd7uKZR3bji6NFRngxoy-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;长文本处理&lt;/h1&gt;&lt;p&gt;将长文本内容，以合理的逻辑划分，处理成多份子任务，将强有利于模型的输出&lt;/p&gt;&lt;p&gt;例：&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;配合AI的长文本知识库搭建&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;测试用例生成中的需求处理&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="gd7uKZR3bji6NFRngxoy-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;长文本处理&lt;/h1&gt;&lt;p&gt;将长文本内容，以合理的逻辑划分，处理成多份子任务，将显著提高模型的输出&lt;/p&gt;&lt;p&gt;例：&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（1）配合AI的长文本知识库搭建&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;（2）测试用例生成中的长需求处理&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="60" y="120" width="180" height="225" as="geometry" />
         </mxCell>
         <mxCell id="gd7uKZR3bji6NFRngxoy-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;长流程任务&lt;/h1&gt;&lt;p&gt;AI处理长流程任务过程中，将流程拆分，适当“放缓“处理的速度，保证每个流程的输出质量，将有效提升任务的整体效率&lt;/p&gt;&lt;p&gt;例：&lt;/p&gt;&lt;p&gt;测试用例生成：&lt;/p&gt;&lt;p&gt;（1）需求点/场景 -- 部分用例 -- 全面用例&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
