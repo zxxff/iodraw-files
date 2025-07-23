@@ -263,13 +263,13 @@
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-92" value="" style="endArrow=none;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="697.5" y="945" as="sourcePoint" />
-            <mxPoint x="697.5" y="705" as="targetPoint" />
+            <mxPoint x="1785" y="978.75" as="sourcePoint" />
+            <mxPoint x="1785" y="738.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-93" value="" style="endArrow=none;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="697.5" y="705" as="sourcePoint" />
+            <mxPoint x="735" y="705" as="sourcePoint" />
             <mxPoint x="1267.5" y="705" as="targetPoint" />
           </mxGeometry>
         </mxCell>
