@@ -419,8 +419,14 @@
             <mxPoint x="843.8199999999999" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OoGbSPjw5oOgJwCK0a4b-133" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OoGbSPjw5oOgJwCK0a4b-133" value="合并" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1012" y="1110" width="91" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="OoGbSPjw5oOgJwCK0a4b-134" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OoGbSPjw5oOgJwCK0a4b-133">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="795" y="1205" as="sourcePoint" />
+            <mxPoint x="845" y="1155" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
