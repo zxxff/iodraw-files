@@ -277,10 +277,10 @@
           <mxGeometry x="712.5" y="780" width="97.5" height="45" as="geometry" />
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-95" value="图片" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="892.5" y="810" width="105" height="30" as="geometry" />
+          <mxGeometry x="892.5" y="798.75" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-96" value="带图片位置标注文本" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="892.5" y="738.75" width="105" height="37.5" as="geometry" />
+          <mxGeometry x="900" y="750" width="105" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoGbSPjw5oOgJwCK0a4b-97" target="OoGbSPjw5oOgJwCK0a4b-99">
           <mxGeometry relative="1" as="geometry" />
