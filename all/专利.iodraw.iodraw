@@ -462,7 +462,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bjjOOioQ7o7c0A6elB97-8" value="大模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="825" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="825" y="1800" width="105" height="45" as="geometry" />
         </mxCell>
         <mxCell id="bjjOOioQ7o7c0A6elB97-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="bjjOOioQ7o7c0A6elB97-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -477,7 +477,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bjjOOioQ7o7c0A6elB97-11" value="输出确认" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="964.5" y="1800" width="105" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
