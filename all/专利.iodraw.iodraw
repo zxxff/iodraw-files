@@ -330,6 +330,12 @@
             <mxPoint x="1470" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OoGbSPjw5oOgJwCK0a4b-107" value="" style="endArrow=none;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1305" y="960" as="sourcePoint" />
+            <mxPoint x="1305" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
