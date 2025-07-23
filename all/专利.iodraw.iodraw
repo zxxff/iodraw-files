@@ -263,77 +263,77 @@
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-92" value="" style="endArrow=none;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="960" as="sourcePoint" />
-            <mxPoint x="720" y="720" as="targetPoint" />
+            <mxPoint x="697.5" y="945" as="sourcePoint" />
+            <mxPoint x="697.5" y="705" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-93" value="" style="endArrow=none;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="720" as="sourcePoint" />
-            <mxPoint x="1290" y="720" as="targetPoint" />
+            <mxPoint x="697.5" y="705" as="sourcePoint" />
+            <mxPoint x="1267.5" y="705" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-94" value="知识分块1" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="780" y="795" width="105" height="52.5" as="geometry" />
+          <mxGeometry x="757.5" y="780" width="105" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-95" value="图片" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="960" y="825" width="105" height="30" as="geometry" />
+          <mxGeometry x="937.5" y="810" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-96" value="带图片位置标注文本" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="960" y="753.75" width="105" height="37.5" as="geometry" />
+          <mxGeometry x="937.5" y="738.75" width="105" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OoGbSPjw5oOgJwCK0a4b-97" target="OoGbSPjw5oOgJwCK0a4b-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-97" value="大模型" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="802.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1117.5" y="787.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-98" value="预设提示词" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="960" y="885" width="105" height="30" as="geometry" />
+          <mxGeometry x="937.5" y="870" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-99" value="增强型文本1" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="802.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1297.5" y="787.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-100" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OoGbSPjw5oOgJwCK0a4b-94" target="OoGbSPjw5oOgJwCK0a4b-96">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="900" y="1010" as="sourcePoint" />
-            <mxPoint x="950" y="960" as="targetPoint" />
+            <mxPoint x="877.5" y="995" as="sourcePoint" />
+            <mxPoint x="927.5" y="945" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-101" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="OoGbSPjw5oOgJwCK0a4b-95">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="885" y="825" as="sourcePoint" />
-            <mxPoint x="905" y="990" as="targetPoint" />
+            <mxPoint x="862.5" y="810" as="sourcePoint" />
+            <mxPoint x="882.5" y="975" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-102" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OoGbSPjw5oOgJwCK0a4b-98" target="OoGbSPjw5oOgJwCK0a4b-97">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1065" y="1010" as="sourcePoint" />
-            <mxPoint x="1115" y="960" as="targetPoint" />
+            <mxPoint x="1042.5" y="995" as="sourcePoint" />
+            <mxPoint x="1092.5" y="945" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-103" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OoGbSPjw5oOgJwCK0a4b-96" target="OoGbSPjw5oOgJwCK0a4b-97">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="915" y="1040" as="sourcePoint" />
-            <mxPoint x="1140" y="840" as="targetPoint" />
+            <mxPoint x="892.5" y="1025" as="sourcePoint" />
+            <mxPoint x="1117.5" y="825" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-104" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OoGbSPjw5oOgJwCK0a4b-95" target="OoGbSPjw5oOgJwCK0a4b-97">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1095" y="1080" as="sourcePoint" />
-            <mxPoint x="1145" y="1035" as="targetPoint" />
+            <mxPoint x="1072.5" y="1065" as="sourcePoint" />
+            <mxPoint x="1122.5" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-106" value="" style="endArrow=none;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="960" as="sourcePoint" />
-            <mxPoint x="1290" y="960" as="targetPoint" />
+            <mxPoint x="697.5" y="945" as="sourcePoint" />
+            <mxPoint x="1267.5" y="945" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-107" value="" style="endArrow=none;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1290" y="960" as="sourcePoint" />
-            <mxPoint x="1290" y="720" as="targetPoint" />
+            <mxPoint x="1267.5" y="945" as="sourcePoint" />
+            <mxPoint x="1267.5" y="705" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
