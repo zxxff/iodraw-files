@@ -291,7 +291,7 @@
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-98" value="预设提示词" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="960" y="915" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OoGbSPjw5oOgJwCK0a4b-99" value="增强型文本" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="OoGbSPjw5oOgJwCK0a4b-99" value="增强型文本1" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="1320" y="832.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-100" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OoGbSPjw5oOgJwCK0a4b-94" target="OoGbSPjw5oOgJwCK0a4b-96">
@@ -322,6 +322,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1095" y="1110" as="sourcePoint" />
             <mxPoint x="1145" y="1065" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OoGbSPjw5oOgJwCK0a4b-106" value="" style="endArrow=none;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="735" y="765" as="sourcePoint" />
+            <mxPoint x="1485" y="765" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
