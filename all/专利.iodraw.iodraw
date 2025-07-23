@@ -383,6 +383,9 @@
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-123" value="增强型文本1" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="1260" y="960" width="112.5" height="52.5" as="geometry" />
         </mxCell>
+        <mxCell id="OoGbSPjw5oOgJwCK0a4b-124" value="增强型文本1" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="1065" width="112.5" height="52.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
