@@ -443,8 +443,8 @@
         <mxCell id="bjjOOioQ7o7c0A6elB97-2" value="用例扩展" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="2160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bjjOOioQ7o7c0A6elB97-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="677" y="1770" width="120" height="60" as="geometry" />
+        <mxCell id="bjjOOioQ7o7c0A6elB97-4" value="用户输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="662" y="1770" width="88" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
