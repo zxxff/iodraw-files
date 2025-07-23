@@ -282,16 +282,6 @@
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-96" value="带图片位置标注文本" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="892.5" y="742.5" width="112.5" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="OoGbSPjw5oOgJwCK0a4b-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="OoGbSPjw5oOgJwCK0a4b-99">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1215" y="802.5833333333335" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1215" y="795" />
-              <mxPoint x="1246" y="795" />
-              <mxPoint x="1246" y="802" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-97" value="大模型" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="1072.5" y="776.25" width="127.5" height="52.5" as="geometry" />
         </mxCell>
@@ -312,7 +302,7 @@
             <mxPoint x="882.5" y="945" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OoGbSPjw5oOgJwCK0a4b-101" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="OoGbSPjw5oOgJwCK0a4b-95">
+        <mxCell id="OoGbSPjw5oOgJwCK0a4b-101" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OoGbSPjw5oOgJwCK0a4b-94" target="OoGbSPjw5oOgJwCK0a4b-95">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="817.5" y="810" as="sourcePoint" />
             <mxPoint x="837.5" y="975" as="targetPoint" />
@@ -421,6 +411,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1425" y="1155.5" as="sourcePoint" />
             <mxPoint x="1425" y="742.4999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OoGbSPjw5oOgJwCK0a4b-131" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OoGbSPjw5oOgJwCK0a4b-99">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="1115" as="sourcePoint" />
+            <mxPoint x="1130" y="1065" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
