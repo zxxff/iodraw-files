@@ -423,7 +423,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-133" value="合并" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1012" y="1185" width="91" height="45" as="geometry" />
+          <mxGeometry x="1012" y="1170" width="91" height="45" as="geometry" />
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-136" value="标注模块来源等检索关键信息，分隔符" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="954.32" y="1110" width="185.68" height="45" as="geometry" />
