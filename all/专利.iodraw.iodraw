@@ -440,6 +440,9 @@
         <mxCell id="bjjOOioQ7o7c0A6elB97-1" value="用例原型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="915" y="2040" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bjjOOioQ7o7c0A6elB97-2" value="用例扩展" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="915" y="2115" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
