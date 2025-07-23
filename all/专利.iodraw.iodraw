@@ -479,6 +479,12 @@
         <mxCell id="bjjOOioQ7o7c0A6elB97-11" value="输出确认" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1143.5" y="1800" width="105" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="bjjOOioQ7o7c0A6elB97-13" value="大模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1935" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bjjOOioQ7o7c0A6elB97-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1875" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
