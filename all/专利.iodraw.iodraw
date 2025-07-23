@@ -458,6 +458,9 @@
             <mxPoint x="825" y="1815" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="bjjOOioQ7o7c0A6elB97-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bjjOOioQ7o7c0A6elB97-8" target="bjjOOioQ7o7c0A6elB97-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bjjOOioQ7o7c0A6elB97-8" value="大模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="825" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
@@ -472,6 +475,9 @@
             <mxPoint x="750" y="1875" as="sourcePoint" />
             <mxPoint x="855" y="1830" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bjjOOioQ7o7c0A6elB97-11" value="输出确认" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
