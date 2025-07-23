@@ -452,6 +452,12 @@
         <mxCell id="bjjOOioQ7o7c0A6elB97-6" value="预设提示词" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="661" y="1860" width="88" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bjjOOioQ7o7c0A6elB97-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="855" y="1880" as="sourcePoint" />
+            <mxPoint x="905" y="1830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
