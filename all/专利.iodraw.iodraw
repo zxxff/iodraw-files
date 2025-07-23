@@ -482,11 +482,14 @@
         <mxCell id="bjjOOioQ7o7c0A6elB97-13" value="大模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="1935" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bjjOOioQ7o7c0A6elB97-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1875" width="120" height="60" as="geometry" />
+        <mxCell id="bjjOOioQ7o7c0A6elB97-16" value="用户输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72" y="1905" width="88" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bjjOOioQ7o7c0A6elB97-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1965" width="120" height="60" as="geometry" />
+        <mxCell id="bjjOOioQ7o7c0A6elB97-17" value="需求k文档" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71" y="1950" width="88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bjjOOioQ7o7c0A6elB97-18" value="预设提示词" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71" y="1995" width="88" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
