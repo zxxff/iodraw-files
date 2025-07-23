@@ -425,14 +425,11 @@
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-133" value="合并" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1012" y="1185" width="91" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="OoGbSPjw5oOgJwCK0a4b-136" value="标注模块来源等检索重要信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="984.32" y="1110" width="185.68" height="45" as="geometry" />
+        <mxCell id="OoGbSPjw5oOgJwCK0a4b-136" value="标注模块来源等检索关键信息，分隔符" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="954.32" y="1110" width="185.68" height="45" as="geometry" />
         </mxCell>
         <mxCell id="OoGbSPjw5oOgJwCK0a4b-137" value="RAG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1027.5" y="1328.12" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OoGbSPjw5oOgJwCK0a4b-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.609;entryY=0.111;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OoGbSPjw5oOgJwCK0a4b-136" target="OoGbSPjw5oOgJwCK0a4b-136">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
