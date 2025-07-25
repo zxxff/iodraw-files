@@ -769,6 +769,9 @@
         <mxCell id="KIeawNRQqUOhglIVfTJ6-49" value="&lt;span style=&quot;text-align: justify; font-family: 仿宋_GB2312; color: rgb(0, 0, 255); font-size: 12pt;&quot;&gt;1.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: justify; font-family: 仿宋_GB2312; color: rgb(0, 0, 255); font-size: 12pt;&quot;&gt;&lt;font face=&quot;仿宋_GB2312&quot;&gt;每个方法步骤中，描述由哪个网元&lt;/font&gt;&lt;font face=&quot;仿宋_GB2312&quot;&gt;/网元中的具体单元（Who）来做什么（What），何时做（When），在何种场景下做（Where），如何做（How）。&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1425" y="1380.62" width="300" height="165" as="geometry" />
         </mxCell>
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-50" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="1792.5" width="180" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
