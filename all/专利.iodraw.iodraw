@@ -731,10 +731,10 @@
           <mxGeometry x="3345.5" y="1190.5" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KIeawNRQqUOhglIVfTJ6-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3419.5" y="980.01" width="45" height="426.66" as="geometry" />
+          <mxGeometry x="3419.5" y="983.34" width="45" height="426.66" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-36" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;新用例1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="3405" y="1187.17" width="75" height="30" as="geometry" />
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-36" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;新用例2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="3405" y="1190.5" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KIeawNRQqUOhglIVfTJ6-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3479" y="980.01" width="45" height="426.66" as="geometry" />
