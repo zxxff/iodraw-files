@@ -697,7 +697,7 @@
         <mxCell id="KIeawNRQqUOhglIVfTJ6-21" value="用例原型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2700" y="1223.34" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-22" value="用例扩展" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-22" value="场景扩展" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2700" y="1343.34" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KIeawNRQqUOhglIVfTJ6-23" value="认可" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
