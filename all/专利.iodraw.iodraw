@@ -748,8 +748,8 @@
         <mxCell id="KIeawNRQqUOhglIVfTJ6-40" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;新用例4&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="3585" y="1190.5" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-41" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4100" y="1198" width="60" height="30" as="geometry" />
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-41" value="。。。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3532" y="1190.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
