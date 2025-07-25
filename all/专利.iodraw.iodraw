@@ -659,8 +659,8 @@
         <mxCell id="bjjOOioQ7o7c0A6elB97-75" value="为每一个分块添加来源文件信息，来源模块信息" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1486" y="1224.25" width="540" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2460" y="814" width="120" height="60" as="geometry" />
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-1" value="历史文档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="855" width="450" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
