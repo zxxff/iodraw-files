@@ -769,7 +769,7 @@
         <mxCell id="KIeawNRQqUOhglIVfTJ6-49" value="&lt;span style=&quot;text-align: justify; font-family: 仿宋_GB2312; color: rgb(0, 0, 255); font-size: 12pt;&quot;&gt;1.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: justify; font-family: 仿宋_GB2312; color: rgb(0, 0, 255); font-size: 12pt;&quot;&gt;&lt;font face=&quot;仿宋_GB2312&quot;&gt;每个方法步骤中，描述由哪个网元&lt;/font&gt;&lt;font face=&quot;仿宋_GB2312&quot;&gt;/网元中的具体单元（Who）来做什么（What），何时做（When），在何种场景下做（Where），如何做（How）。&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1425" y="1380.62" width="300" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-50" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;现有技术的缺点及本申请提案要解决的技术问题&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-50" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;现有技术的缺点及本申请提案要解决的技术问题&lt;/h1&gt;&lt;div&gt;没有对图像数据提出解决方法&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;本公开提出了新的知识库搭建方法，多样化数据的处理方法，对用例生成的更具体指导框架&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1845" y="1755" width="555" height="120" as="geometry" />
         </mxCell>
       </root>
