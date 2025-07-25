@@ -721,14 +721,14 @@
         <mxCell id="KIeawNRQqUOhglIVfTJ6-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;理念&lt;/h1&gt;&lt;p&gt;当达到某种条件，即可...&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3165" y="799" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-31" value="对等膨胀" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-31" value="对等膨胀" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=180;" vertex="1" parent="1">
           <mxGeometry x="3420" y="1009" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KIeawNRQqUOhglIVfTJ6-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3225" y="1212.51" width="450" height="201.66" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-33" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;条件满足膨胀&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-5;" vertex="1" parent="1">
-          <mxGeometry x="3135" y="1515.62" width="105" height="30" as="geometry" />
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-33" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;条件满足膨胀&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="3202.5" y="1278.5" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
