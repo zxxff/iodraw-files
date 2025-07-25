@@ -709,8 +709,8 @@
         <mxCell id="KIeawNRQqUOhglIVfTJ6-25" value="认可" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2760" y="1298.34" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-26" value="对话流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2610" y="1103.34" width="60" height="30" as="geometry" />
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-26" value="对话流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="2895" y="750.25" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
