@@ -757,8 +757,11 @@
             <mxPoint x="3439" y="1195.96" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-44" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;part1&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-44" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;技术领域&lt;/h1&gt;&lt;div&gt;本公开的涉及人工智能技术，数据分析、处理技术，软件测试，主要涉及&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2340" y="1531" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-45" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2255" y="1453" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
