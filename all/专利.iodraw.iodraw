@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="2q4GD-RlQjwnEuCnPh00">
-    <mxGraphModel dx="1571" dy="642" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3328" dy="1606" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -776,7 +776,7 @@
           <mxGeometry x="1447.5" y="1545.62" width="255" height="81.66" as="geometry" />
         </mxCell>
         <mxCell id="KIeawNRQqUOhglIVfTJ6-55" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;交底书&lt;/h1&gt;&lt;p&gt;技术领域&lt;/p&gt;&lt;p&gt;本公开涉及人工智能技术，数据分析、处理技术，软件测试技术，大模型技术。&lt;/p&gt;&lt;p&gt;相关背景&lt;/p&gt;&lt;p&gt;现有测试人员的测试用例编写任务中，已经逐步地开始应用AI技术去进行辅助编写，这其中的不足之处在于测试人员对人工智能的使用一般通过网页上的简单对话框，这种即时的对话过程一没有相关知识库的加持，二是难以形成系统的用例生成框架，因此存在对人工智能技术应用效率较弱，对测试任务的时间、成本投入加重问题。&lt;/p&gt;&lt;p&gt;发明内容&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;附图说明&lt;/p&gt;&lt;p&gt;具体实施方式&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1845" y="1905" width="510" height="277" as="geometry" />
+          <mxGeometry x="1845" y="1905" width="510" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
