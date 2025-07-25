@@ -721,7 +721,7 @@
         <mxCell id="KIeawNRQqUOhglIVfTJ6-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;理念&lt;/h1&gt;&lt;p&gt;当达到某种条件，即可...&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3165" y="799" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-31" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-31" value="对等膨胀" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3420" y="1009" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
