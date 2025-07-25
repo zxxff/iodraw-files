@@ -764,10 +764,10 @@
           <mxGeometry x="1830" y="1410" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KIeawNRQqUOhglIVfTJ6-47" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;现有技术的技术方案&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1875" y="1581.38" width="180" height="120" as="geometry" />
+          <mxGeometry x="1875" y="1581.38" width="420" height="173.62" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-48" value="&lt;p style=&quot;margin: 7.8pt 0pt 0.0001pt; text-align: justify; font-family: 等线; font-size: 10.5pt; text-wrap: wrap; line-height: 24pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 仿宋_GB2312; color: rgb(0, 0, 255); font-size: 12pt;&quot;&gt;1.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋_GB2312; color: rgb(0, 0, 255); font-size: 12pt;&quot;&gt;&lt;font face=&quot;仿宋_GB2312&quot;&gt;每个方法步骤中，描述由哪个网元&lt;/font&gt;&lt;font face=&quot;仿宋_GB2312&quot;&gt;/网元中的具体单元（Who）来做什么（What），何时做（When），在何种场景下做（Where），如何做（How）。&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋_GB2312; color: rgb(0, 0, 255); font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="878.35" y="1590" width="1080" height="60" as="geometry" />
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-49" value="&lt;span style=&quot;text-align: justify; font-family: 仿宋_GB2312; color: rgb(0, 0, 255); font-size: 12pt;&quot;&gt;1.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: justify; font-family: 仿宋_GB2312; color: rgb(0, 0, 255); font-size: 12pt;&quot;&gt;&lt;font face=&quot;仿宋_GB2312&quot;&gt;每个方法步骤中，描述由哪个网元&lt;/font&gt;&lt;font face=&quot;仿宋_GB2312&quot;&gt;/网元中的具体单元（Who）来做什么（What），何时做（When），在何种场景下做（Where），如何做（How）。&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1605" y="1710" width="300" height="165" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
