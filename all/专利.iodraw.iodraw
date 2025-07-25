@@ -773,7 +773,10 @@
           <mxGeometry x="1845" y="1755" width="555" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KIeawNRQqUOhglIVfTJ6-53" value="1、本领域技术人员无需创造性劳动能实现&lt;div&gt;2、需要公开所有必要技术特征&lt;/div&gt;&lt;div&gt;3、适当保留关键技术秘密，如参数&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="1568.34" width="345" height="172" as="geometry" />
+          <mxGeometry x="1447.5" y="1545.62" width="255" height="81.66" as="geometry" />
+        </mxCell>
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-54" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1895" y="1903" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
