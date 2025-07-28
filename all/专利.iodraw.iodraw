@@ -812,7 +812,7 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-67" target="bXkUD73FwITwWlfWF7Ge-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-67" value="需求点实现逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-67" value="需求点的实现逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2787" y="-120.75" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-69" target="bXkUD73FwITwWlfWF7Ge-70">
@@ -871,9 +871,6 @@
             <mxPoint x="3495.5" y="-45.70999999999992" as="sourcePoint" />
             <mxPoint x="3540.5" y="-45.70999999999992" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-86" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4095" y="-345" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
