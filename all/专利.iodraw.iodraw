@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="2q4GD-RlQjwnEuCnPh00">
-    <mxGraphModel dx="1571" dy="642" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2230" dy="1004" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -659,123 +659,123 @@
         <mxCell id="bjjOOioQ7o7c0A6elB97-75" value="为每一个分块添加来源文件信息，来源模块信息" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1486" y="1224.25" width="540" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-1" value="历史文档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-1" value="历史文档" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2265" y="1073.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-2" value="数据处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-2" value="数据处理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2445" y="1073.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-3" value="需求文档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-3" value="需求文档" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2280" y="1224.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KIeawNRQqUOhglIVfTJ6-4">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="KIeawNRQqUOhglIVfTJ6-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2505" y="1224.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-4" value="数据处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-4" value="数据处理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2445" y="1224.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2640" y="937.59" width="465" height="517.41" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KIeawNRQqUOhglIVfTJ6-17" target="KIeawNRQqUOhglIVfTJ6-19">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KIeawNRQqUOhglIVfTJ6-17" target="KIeawNRQqUOhglIVfTJ6-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-17" value="需求点分解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-17" value="需求点分解" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2700" y="983.34" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KIeawNRQqUOhglIVfTJ6-19" target="KIeawNRQqUOhglIVfTJ6-21">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KIeawNRQqUOhglIVfTJ6-19" target="KIeawNRQqUOhglIVfTJ6-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-19" value="需求点实现逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-19" value="需求点实现逻辑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2700" y="1103.34" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KIeawNRQqUOhglIVfTJ6-21" target="KIeawNRQqUOhglIVfTJ6-22">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KIeawNRQqUOhglIVfTJ6-21" target="KIeawNRQqUOhglIVfTJ6-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-21" value="用例原型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-21" value="用例原型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2700" y="1223.34" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-22" value="场景扩展" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-22" value="场景扩展" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2700" y="1343.34" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-23" value="认可" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-23" value="认可" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2760" y="1058.34" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-24" value="认可" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-24" value="认可" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2760" y="1178.34" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-25" value="认可" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-25" value="认可" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2760" y="1298.34" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-26" value="条件满足膨胀" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-26" value="条件满足膨胀" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2813" y="885" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3240" y="934.84" width="525" height="517" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-29" value="已有测试用例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-29" value="已有测试用例" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3300" y="983.34" width="90" height="426.66" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;理念&lt;/h1&gt;&lt;p&gt;当达到某种条件，即可...&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;理念&lt;/h1&gt;&lt;p&gt;当达到某种条件，即可...&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3165" y="799" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-31" value="对等膨胀" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-31" value="对等膨胀" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="3472.5" y="885" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3442" y="983.34" width="45" height="426.66" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-33" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;新用例1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-33" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;新用例1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="3427.5" y="1190.5" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3501.5" y="983.34" width="45" height="426.66" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-36" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;新用例2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-36" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;新用例2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="3487" y="1190.5" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3561" y="983.34" width="45" height="426.66" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-38" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;新用例3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-38" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;新用例3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="3546.5" y="1190.5" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3674.5" y="983.3400000000001" width="45" height="426.66" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-40" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;新用例4&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-40" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;新用例4&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="3660" y="1190.5" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-41" value="。。。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-41" value="。。。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3612" y="1190.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-42" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3394" y="1195.96" as="sourcePoint" />
             <mxPoint x="3439" y="1195.96" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-44" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;技术领域&lt;/h1&gt;&lt;div&gt;本公开技术的涉及人工智能，&lt;span style=&quot;background-color: initial;&quot;&gt;数据分析与处理&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;，软件测试，IT支撑&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-44" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;技术领域&lt;/h1&gt;&lt;div&gt;本公开技术的涉及人工智能，&lt;span style=&quot;background-color: initial;&quot;&gt;数据分析与处理&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;，软件测试，IT支撑&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1845" y="1454.72" width="525" height="96.66" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-45" value="一种基于大模型的测试用例生成方法，装置和智能体" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-45" value="一种基于大模型的测试用例生成方法，装置和智能体" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1830" y="1410" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-47" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;现有技术的技术方案&lt;/h1&gt;&lt;div&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 10.5px; line-height: normal;&quot; class=&quot;p1&quot;&gt;202510337839，&lt;span style=&quot;background-color: initial;&quot;&gt;本公开提供了一种基于大模型的测试用例&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;生成方法、 装置和智能体， 涉及人工智能技术领&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;域， 具体涉及软件测试、 大模型技术领域。 具体实&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;施方案为： 获取项目的历史资料， 历史资料至少&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;包括： 历史测试用例、 历史代码和历史项目文档&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;中的至少一项； 通过自然语言处理NLP模型对历&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;史资料进行知识抽取， 并基于抽取的知识生成项&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;目知识图谱； 获取项目的测试需求信息； 通过大&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;模型根据测试需求信息和项目知识图谱，生成项&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;目的测试用例集合。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 10.5px; line-height: normal;&quot; class=&quot;p1&quot;&gt;区别：相关知识库搭建方法差异，相关需求数据处理的差异&lt;br&gt;不足：没有对多形式数据的处理方法，没有对用例的生成过程没有系统的指导框架&lt;/p&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-47" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;现有技术的技术方案&lt;/h1&gt;&lt;div&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 10.5px; line-height: normal;&quot; class=&quot;p1&quot;&gt;202510337839，&lt;span style=&quot;background-color: initial;&quot;&gt;本公开提供了一种基于大模型的测试用例&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;生成方法、 装置和智能体， 涉及人工智能技术领&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;域， 具体涉及软件测试、 大模型技术领域。 具体实&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;施方案为： 获取项目的历史资料， 历史资料至少&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;包括： 历史测试用例、 历史代码和历史项目文档&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;中的至少一项； 通过自然语言处理NLP模型对历&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;史资料进行知识抽取， 并基于抽取的知识生成项&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;目知识图谱； 获取项目的测试需求信息； 通过大&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;模型根据测试需求信息和项目知识图谱，生成项&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;目的测试用例集合。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 10.5px; line-height: normal;&quot; class=&quot;p1&quot;&gt;区别：相关知识库搭建方法差异，相关需求数据处理的差异&lt;br&gt;不足：没有对多形式数据的处理方法，没有对用例的生成过程没有系统的指导框架&lt;/p&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1845" y="1552.38" width="420" height="173.62" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-49" value="&lt;span style=&quot;text-align: justify; font-family: 仿宋_GB2312; color: rgb(0, 0, 255); font-size: 12pt;&quot;&gt;1.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: justify; font-family: 仿宋_GB2312; color: rgb(0, 0, 255); font-size: 12pt;&quot;&gt;&lt;font face=&quot;仿宋_GB2312&quot;&gt;每个方法步骤中，描述由哪个网元&lt;/font&gt;&lt;font face=&quot;仿宋_GB2312&quot;&gt;/网元中的具体单元（Who）来做什么（What），何时做（When），在何种场景下做（Where），如何做（How）。&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-49" value="&lt;span style=&quot;text-align: justify; font-family: 仿宋_GB2312; color: rgb(0, 0, 255); font-size: 12pt;&quot;&gt;1.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: justify; font-family: 仿宋_GB2312; color: rgb(0, 0, 255); font-size: 12pt;&quot;&gt;&lt;font face=&quot;仿宋_GB2312&quot;&gt;每个方法步骤中，描述由哪个网元&lt;/font&gt;&lt;font face=&quot;仿宋_GB2312&quot;&gt;/网元中的具体单元（Who）来做什么（What），何时做（When），在何种场景下做（Where），如何做（How）。&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1425" y="1380.62" width="300" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-50" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;现有技术的缺点及本申请提案要解决的技术问题&lt;/h1&gt;&lt;div&gt;没有对图像数据提出解决方法&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;本公开提出了新的知识库搭建方法，多样化数据的详细处理方法，对用例生成的更具体指导框架&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-50" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;现有技术的缺点及本申请提案要解决的技术问题&lt;/h1&gt;&lt;div&gt;没有对图像数据提出解决方法&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;本公开提出了新的知识库搭建方法，多样化数据的详细处理方法，对用例生成的更具体指导框架&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1845" y="1762.5" width="555" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-53" value="1、本领域技术人员无需创造性劳动能实现&lt;div&gt;2、需要公开所有必要技术特征&lt;/div&gt;&lt;div&gt;3、适当保留关键技术秘密，如参数&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-53" value="1、本领域技术人员无需创造性劳动能实现&lt;div&gt;2、需要公开所有必要技术特征&lt;/div&gt;&lt;div&gt;3、适当保留关键技术秘密，如参数&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1447.5" y="1545.62" width="255" height="81.66" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-55" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;交底书&lt;/h1&gt;&lt;p&gt;技术领域&lt;/p&gt;&lt;p&gt;本公开涉及人工智能技术，数据分析、处理技术，软件测试技术，大模型技术。&lt;/p&gt;&lt;p&gt;相关背景&lt;/p&gt;&lt;p&gt;现有测试人员的测试用例编写任务中，已经逐步地开始应用AI技术去进行辅助编写，这其中的不足之处在于测试人员对人工智能的使用一般通过网页上的简单对话框，这种即时的对话过程一没有相关知识库的加持，二是难以形成系统的用例生成框架，因此存在对人工智能技术应用效率较弱，对测试任务的时间、成本投入加重问题。&lt;/p&gt;&lt;p&gt;发明内容&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;附图说明&lt;/p&gt;&lt;p&gt;具体实施方式&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KIeawNRQqUOhglIVfTJ6-55" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;交底书&lt;/h1&gt;&lt;p&gt;技术领域&lt;/p&gt;&lt;p&gt;本公开涉及人工智能技术，数据分析、处理技术，软件测试技术，大模型技术。&lt;/p&gt;&lt;p&gt;相关背景&lt;/p&gt;&lt;p&gt;现有测试人员的测试用例编写任务中，已经逐步地开始应用AI技术去进行辅助编写，这其中的不足之处在于测试人员对人工智能的使用一般通过网页上的简单对话框，这种即时的对话过程一没有相关知识库的加持，二是难以形成系统的用例生成框架，因此存在对人工智能技术应用效率较弱，对测试任务的时间、成本投入加重问题。&lt;/p&gt;&lt;p&gt;发明内容&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;附图说明&lt;/p&gt;&lt;p&gt;具体实施方式&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1845" y="1905" width="510" height="360" as="geometry" />
         </mxCell>
       </root>
