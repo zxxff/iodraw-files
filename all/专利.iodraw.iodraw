@@ -882,37 +882,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2190" y="375" width="600" height="480" as="geometry" />
+          <mxGeometry x="2235" y="360" width="510" height="495" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-65" target="bXkUD73FwITwWlfWF7Ge-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-65" value="需求点分解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2872.5" y="-108.49999999999989" width="330" height="60" as="geometry" />
+          <mxGeometry x="2325" y="404.2500000000001" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-67" target="bXkUD73FwITwWlfWF7Ge-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-67" value="需求点实现逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2872.5" y="11.5" width="330" height="60" as="geometry" />
+          <mxGeometry x="2325" y="524.25" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-69" target="bXkUD73FwITwWlfWF7Ge-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-69" value="用例原型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2872.5" y="131.5" width="330" height="60" as="geometry" />
+          <mxGeometry x="2325" y="644.25" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-70" value="场景扩展" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2872.5" y="251.5" width="330" height="60" as="geometry" />
+          <mxGeometry x="2325" y="764.25" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-71" value="认可" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2932.5" y="-33.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="2385" y="479.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-72" value="认可" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2932.5" y="86.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="2385" y="599.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-73" value="认可" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2932.5" y="206.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="2385" y="719.25" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
