@@ -856,6 +856,9 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-33" value="草稿区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4222" y="-668" width="66" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2700" y="-879" width="591" height="1045" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
