@@ -710,6 +710,11 @@
         <mxCell id="KIeawNRQqUOhglIVfTJ6-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3442" y="983.34" width="45" height="426.66" as="geometry" />
         </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KIeawNRQqUOhglIVfTJ6-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4035" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KIeawNRQqUOhglIVfTJ6-33" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;新用例1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="3427.5" y="1190.5" width="75" height="30" as="geometry" />
         </mxCell>
