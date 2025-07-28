@@ -806,10 +806,10 @@
           <mxGeometry x="1520" y="212.5" width="287" height="65.5" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-11" value="需求文档处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="308" width="285" height="65" as="geometry" />
+          <mxGeometry x="1520" y="308" width="289" height="65" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-12" value="大模型处理任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="424" width="285" height="75" as="geometry" />
+          <mxGeometry x="1520" y="408" width="289" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
