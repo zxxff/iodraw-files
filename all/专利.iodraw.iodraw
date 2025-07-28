@@ -835,6 +835,9 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-22" value="对每一个分块进行图像数据融合处理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2168" y="-306.25" width="540" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-23" target="bXkUD73FwITwWlfWF7Ge-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-23" value="为每一个分块添加来源文件信息，来源模块信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2168" y="-166.25" width="540" height="60" as="geometry" />
         </mxCell>
@@ -846,6 +849,9 @@
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-26" value="按逻辑划分，逻辑包含：操作手册的功能模块分类，设计原型文档中的模块功能分类" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2168" y="-456.25" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-28" value="抽样检查，取保文档内容质量" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2168" y="-26.25" width="540" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
