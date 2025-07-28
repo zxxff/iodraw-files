@@ -832,7 +832,7 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-22" target="bXkUD73FwITwWlfWF7Ge-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-22" value="对每一个分块进行图像数据融合处理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-22" value="调用视觉理解强大模型每一个分块进行图像数据融合处理，输出增强型文本" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2168" y="-461.5" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-23" target="bXkUD73FwITwWlfWF7Ge-28">
