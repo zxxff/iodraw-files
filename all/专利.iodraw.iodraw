@@ -802,8 +802,8 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1430" y="180" width="473" height="363" as="geometry" />
         </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="212.5" width="302" height="83" as="geometry" />
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-10" value="知识库搭建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="212.5" width="287" height="65.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
