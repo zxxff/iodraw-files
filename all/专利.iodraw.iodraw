@@ -881,6 +881,21 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-49" target="bXkUD73FwITwWlfWF7Ge-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-57" target="bXkUD73FwITwWlfWF7Ge-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-57" value="数据整理：需求文档，附加说明信息，图像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3372" y="-368" width="540" height="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-59" target="bXkUD73FwITwWlfWF7Ge-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-59" value="按逻辑分块，逻辑包含：需求编号，需求相似性，文本长度要求限制" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3372" y="-216.25" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-60" value="以分块后内容为每一次输入单位，传入智能体处理模块" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3372" y="-76.25" width="540" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
