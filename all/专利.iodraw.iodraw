@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="2q4GD-RlQjwnEuCnPh00">
-    <mxGraphModel dx="3190" dy="1512" grid="0" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3190" dy="1912" grid="0" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -777,6 +777,27 @@
         </mxCell>
         <mxCell id="KIeawNRQqUOhglIVfTJ6-55" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;交底书&lt;/h1&gt;&lt;p&gt;技术领域&lt;/p&gt;&lt;p&gt;本公开涉及人工智能技术，数据分析、处理技术，软件测试技术，大模型技术。&lt;/p&gt;&lt;p&gt;相关背景&lt;/p&gt;&lt;p&gt;现有测试人员的测试用例编写任务中，已经逐步地开始应用AI技术去进行辅助编写，这其中的不足之处在于测试人员对人工智能的使用一般通过网页上的简单对话框，这种即时的对话过程一没有相关知识库的加持，二是难以形成系统的用例生成框架，因此存在对人工智能技术应用效率较弱，对测试任务的时间、成本投入加重问题。&lt;/p&gt;&lt;p&gt;发明内容&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;附图说明&lt;/p&gt;&lt;p&gt;具体实施方式&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1845" y="1905" width="510" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-2" target="bXkUD73FwITwWlfWF7Ge-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-2" value="数据整理：测试对象的历史资料，包含操作手册，设计原型文档，历史用例一项或多项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1383" y="-28" width="540" height="78.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-4" target="bXkUD73FwITwWlfWF7Ge-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-4" value="按逻辑划分，逻辑包含：操作手册的功能模块分类，设计原型文档中的模块功能分类" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1383" y="139.75" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-6" target="bXkUD73FwITwWlfWF7Ge-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-6" value="对每一个分块进行图像数据融合处理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1383" y="279.75" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-7" value="为每一个分块添加来源文件信息，来源模块信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1383" y="419.75" width="540" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
