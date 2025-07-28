@@ -833,13 +833,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-22" value="对每一个分块进行图像数据融合处理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2168" y="-306.25" width="540" height="60" as="geometry" />
+          <mxGeometry x="2168" y="-461.5" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-23" target="bXkUD73FwITwWlfWF7Ge-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-23" value="为每一个分块添加来源文件信息，来源模块信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2168" y="-166.25" width="540" height="60" as="geometry" />
+          <mxGeometry x="2168" y="-321.5" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-24" value="对每一个知识分块，拆分文本与图像，在文本中标注图像位置" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2168" y="-596.25" width="540" height="60" as="geometry" />
@@ -848,10 +848,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-28" value="抽样检查，取保文档内容质量" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2168" y="-26.25" width="540" height="60" as="geometry" />
+          <mxGeometry x="2168" y="-181.5" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-30" value="用embedding模型构建知识库" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2168" y="113.75" width="540" height="60" as="geometry" />
+          <mxGeometry x="2168" y="-41.5" width="540" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
