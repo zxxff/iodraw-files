@@ -659,23 +659,6 @@
         <mxCell id="bjjOOioQ7o7c0A6elB97-75" value="为每一个分块添加来源文件信息，来源模块信息" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1486" y="1224.25" width="540" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-1" value="历史文档" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2265" y="1073.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-2" value="数据处理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2445" y="1073.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-3" value="需求文档" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2280" y="1224.25" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="KIeawNRQqUOhglIVfTJ6-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2505" y="1224.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-4" value="数据处理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2445" y="1224.25" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="KIeawNRQqUOhglIVfTJ6-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2640" y="937.59" width="465" height="517.41" as="geometry" />
         </mxCell>
@@ -875,6 +858,27 @@
           <mxGeometry x="2723" y="-501.25" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-34" target="bXkUD73FwITwWlfWF7Ge-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2712.5" y="-858.25" width="591" height="498" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-51" target="bXkUD73FwITwWlfWF7Ge-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-51" value="数据整理：需求文档，附加说明信息，图像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2738" y="-778" width="540" height="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-53" target="bXkUD73FwITwWlfWF7Ge-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-53" value="按逻辑分块，逻辑包含：需求编号，需求相似性，文本长度要求限制" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2738" y="-626.25" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-54" value="以分块后内容为每一次输入单位，传入智能体处理模块" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2738" y="-486.25" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-49" target="bXkUD73FwITwWlfWF7Ge-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
