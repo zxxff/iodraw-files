@@ -659,42 +659,6 @@
         <mxCell id="bjjOOioQ7o7c0A6elB97-75" value="为每一个分块添加来源文件信息，来源模块信息" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1486" y="1224.25" width="540" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2790" y="-179.83999999999992" width="465" height="517.41" as="geometry" />
-        </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KIeawNRQqUOhglIVfTJ6-17" target="KIeawNRQqUOhglIVfTJ6-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-17" value="需求点分解" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2857.5" y="-123.49999999999989" width="330" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KIeawNRQqUOhglIVfTJ6-19" target="KIeawNRQqUOhglIVfTJ6-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-19" value="需求点实现逻辑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2857.5" y="-3.5" width="330" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KIeawNRQqUOhglIVfTJ6-21" target="KIeawNRQqUOhglIVfTJ6-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-21" value="用例原型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2857.5" y="116.5" width="330" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-22" value="场景扩展" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2857.5" y="236.5" width="330" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-23" value="认可" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2917.5" y="-48.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-24" value="认可" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2917.5" y="71.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-25" value="认可" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2917.5" y="191.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KIeawNRQqUOhglIVfTJ6-26" value="条件满足膨胀" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2970.5" y="-221.83999999999992" width="105" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="KIeawNRQqUOhglIVfTJ6-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3397.5" y="-171.9999999999999" width="525" height="517" as="geometry" />
         </mxCell>
@@ -913,6 +877,9 @@
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-73" value="认可" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2385" y="719.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3525" y="569" width="660" height="466" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
