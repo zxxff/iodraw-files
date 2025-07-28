@@ -847,7 +847,7 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-28" target="bXkUD73FwITwWlfWF7Ge-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-28" value="抽样检查，确保文档内容质量" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-28" value="抽样检查，确保文档规范正确" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1999" y="-92.5" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-30" value="用embedding模型构建知识库" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
