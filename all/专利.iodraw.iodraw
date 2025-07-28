@@ -719,7 +719,7 @@
           <mxGeometry x="3300" y="983.34" width="90" height="426.66" as="geometry" />
         </mxCell>
         <mxCell id="KIeawNRQqUOhglIVfTJ6-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;理念&lt;/h1&gt;&lt;p&gt;当达到某种条件，即可...&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="3165" y="799" width="180" height="120" as="geometry" />
+          <mxGeometry x="3123" y="746.5" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KIeawNRQqUOhglIVfTJ6-31" value="对等膨胀" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="3472.5" y="885" width="60" height="30" as="geometry" />
@@ -810,6 +810,9 @@
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-12" value="大模型处理任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="408" width="289" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2065" y="111" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
