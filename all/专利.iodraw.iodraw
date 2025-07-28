@@ -857,7 +857,7 @@
           <mxGeometry x="4222" y="-668" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2700" y="-879" width="591" height="1045" as="geometry" />
+          <mxGeometry x="2700" y="-879" width="591" height="483" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-36" target="bXkUD73FwITwWlfWF7Ge-39">
           <mxGeometry relative="1" as="geometry" />
@@ -873,6 +873,9 @@
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-44" value="以分块后内容为每一次输入单位，传入智能体处理模块" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2723" y="-501.25" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-34" target="bXkUD73FwITwWlfWF7Ge-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
