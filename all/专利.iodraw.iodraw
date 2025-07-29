@@ -834,42 +834,42 @@
           <mxGeometry x="2847.5" y="24.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3327.5" y="-320" width="615" height="466" as="geometry" />
+          <mxGeometry x="3327" y="-334.5" width="615" height="466" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-75" value="已存在相似测试需求，并有相关测试用例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3402" y="-300.3299999999999" width="90" height="426.66" as="geometry" />
+          <mxGeometry x="3401.5" y="-314.8299999999999" width="90" height="426.66" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3582" y="-300.3299999999999" width="45" height="426.66" as="geometry" />
+          <mxGeometry x="3581.5" y="-314.8299999999999" width="45" height="426.66" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-77" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;新用例1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="3567.5" y="-93.16999999999996" width="75" height="30" as="geometry" />
+          <mxGeometry x="3567" y="-107.66999999999996" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3641.5" y="-300.3299999999999" width="45" height="426.66" as="geometry" />
+          <mxGeometry x="3641" y="-314.8299999999999" width="45" height="426.66" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-79" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;新用例2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="3627" y="-93.16999999999996" width="75" height="30" as="geometry" />
+          <mxGeometry x="3626.5" y="-107.66999999999996" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-80" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3701" y="-300.3299999999999" width="45" height="426.66" as="geometry" />
+          <mxGeometry x="3700.5" y="-314.8299999999999" width="45" height="426.66" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-81" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;新用例3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="3686.5" y="-93.16999999999996" width="75" height="30" as="geometry" />
+          <mxGeometry x="3686" y="-107.66999999999996" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3814.5" y="-300.3299999999998" width="45" height="426.66" as="geometry" />
+          <mxGeometry x="3814" y="-314.8299999999998" width="45" height="426.66" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-83" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;新用例4&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="3799.5" y="-94.5" width="75" height="30" as="geometry" />
+          <mxGeometry x="3799" y="-109" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-84" value="。。。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3752" y="-93.16999999999996" width="60" height="30" as="geometry" />
+          <mxGeometry x="3751.5" y="-107.66999999999996" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-85" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3496" y="-87.70999999999992" as="sourcePoint" />
-            <mxPoint x="3541" y="-87.70999999999992" as="targetPoint" />
+            <mxPoint x="3495.5" y="-102.20999999999992" as="sourcePoint" />
+            <mxPoint x="3540.5" y="-102.20999999999992" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
