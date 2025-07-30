@@ -873,7 +873,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-115" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3360" y="-873.25" width="1230" height="1038.25" as="geometry" />
+          <mxGeometry x="3360" y="-873.25" width="675" height="1038.25" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-117" target="bXkUD73FwITwWlfWF7Ge-120">
           <mxGeometry relative="1" as="geometry" />
@@ -885,7 +885,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-120" value="通过大模型对输入内容总结出检索词，检索知识库，输出检索内容" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3953" y="-626.75" width="540" height="60" as="geometry" />
+          <mxGeometry x="3413" y="-626.75" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-122" target="bXkUD73FwITwWlfWF7Ge-124">
           <mxGeometry relative="1" as="geometry" />
@@ -898,6 +898,9 @@
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-124" value="通过大模型生成部分用例原型，此阶段循环至用户认可结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3413" y="-226.75" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-125" target="bXkUD73FwITwWlfWF7Ge-122">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-125" value="将检索内容，需求内容，用户输入传入大模型，提取出需求点，此阶段循环至用户认可结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3413" y="-501.5" width="540" height="60" as="geometry" />
