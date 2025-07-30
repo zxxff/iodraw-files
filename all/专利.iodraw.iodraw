@@ -714,7 +714,7 @@
           <mxGeometry x="1522" y="-252" width="289" height="61" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1946" y="-879" width="649" height="1047" as="geometry" />
+          <mxGeometry x="1946" y="-879" width="649" height="924" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-18" target="bXkUD73FwITwWlfWF7Ge-20">
           <mxGeometry relative="1" as="geometry" />
@@ -746,14 +746,8 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-24" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 14px; text-align: left; text-indent: 28px;&quot;&gt;拆分知识块中的文本数据与图像数据，并在原文本中图像位置处添加图像标识信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1999" y="-507.25" width="540" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-28" target="bXkUD73FwITwWlfWF7Ge-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-28" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 14px; text-align: left; text-indent: 28px;&quot;&gt;基于嵌入模型构建结构化知识库&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1999" y="-92.5" width="540" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-30" value="用embedding模型构建知识库" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1999" y="47.5" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-33" value="草稿区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="5188" y="-834.5" width="66" height="26" as="geometry" />
@@ -764,7 +758,7 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-36" target="bXkUD73FwITwWlfWF7Ge-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-36" value="数据整理：需求文档，附加说明信息，附加图像信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-36" value="&lt;span style=&quot;font-family: ipFTOGuUYLjy2GGuCVT7; font-size: 14px; text-align: left; text-indent: 28px;&quot;&gt;整理需求文件及附加文件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2723" y="-793" width="540" height="63.5" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-39" target="bXkUD73FwITwWlfWF7Ge-44">
