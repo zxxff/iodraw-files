@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="2q4GD-RlQjwnEuCnPh00">
-    <mxGraphModel dx="2493" dy="2776" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2493" dy="2376" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -777,27 +777,6 @@
           <mxGeometry x="2723" y="-501.25" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-34" target="bXkUD73FwITwWlfWF7Ge-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2730" y="-1470" width="591" height="499.36" as="geometry" />
-        </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-51" target="bXkUD73FwITwWlfWF7Ge-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-51" value="智能体接收用户输入，包含文件输入，用户输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2755.5" y="-1389.75" width="540" height="63.5" as="geometry" />
-        </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-53" target="bXkUD73FwITwWlfWF7Ge-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-53" value="大模型对输入内容提炼出检索内容，检索知识库" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2755.5" y="-1238" width="540" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-54" value="将原输入内容和检索所得内容传入大模型，按用户要求输出" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2755.5" y="-1098" width="540" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-49" target="bXkUD73FwITwWlfWF7Ge-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
