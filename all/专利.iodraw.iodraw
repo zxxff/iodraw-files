@@ -875,7 +875,7 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-125" target="bXkUD73FwITwWlfWF7Ge-122">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-125" value="将检索内容，需求内容，用户输入传入大模型，提取出需求点，此阶段循环至用户认可结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-125" value="&lt;span style=&quot;font-family: ipFTOGuUYLjy2GGuCVT7; font-size: 14px; text-align: left; text-indent: 28px;&quot;&gt;获得检索内容，将检索内容、需求内容及用户指令传入大模型，循环提取需求点直至满足预设验证条件&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3454" y="-529.13" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-127" value="通过大模型扩展所有场景的用例，此阶段循环至用户认可结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
