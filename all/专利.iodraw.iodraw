@@ -905,14 +905,8 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-125" value="将检索内容，需求内容，用户输入传入大模型，提取出需求点，此阶段循环至用户认可结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3413" y="-501.5" width="540" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-127" target="bXkUD73FwITwWlfWF7Ge-128">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-127" value="通过大模型生成需求点的实现逻辑，此阶段循环至用户认可结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3413" y="-86.75" width="540" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-128" value="用embedding模型构建知识库" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3413" y="53.25" width="540" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
