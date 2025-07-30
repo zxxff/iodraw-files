@@ -893,7 +893,7 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-138" target="bXkUD73FwITwWlfWF7Ge-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-138" value="通过大模型对输入内容总结出检索词，检索知识库，输出检索内容" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-138" value="&lt;span style=&quot;font-family: ipFTOGuUYLjy2GGuCVT7; font-size: 14px; text-align: left; text-indent: 28px;&quot;&gt;通过大模型生成检索词并检索知识库，获得检索内容&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2735" y="-85.75" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-144" value="将检索内容，需求内容，用户输入，相似需求内容及对应测试用例传入大模型，对等为新需求生成新的测试用例" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
