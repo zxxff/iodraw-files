@@ -719,7 +719,7 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-18" target="bXkUD73FwITwWlfWF7Ge-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-18" value="数据整理：测试对象的历史资料，包含操作手册，设计原型文档，历史用例一项或多项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-18" value="&lt;span style=&quot;font-family: 仿宋_GB2312; font-size: 16px; text-align: left; text-indent: 28px;&quot;&gt;采集测试对象的历史资料，所述历史资料包括操作手册说明文档、设计原型文档、历史需求文档及历史用例中的至少一种&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1999" y="-817" width="540" height="78.5" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-20" target="bXkUD73FwITwWlfWF7Ge-22">
