@@ -872,6 +872,48 @@
             <mxPoint x="3348" y="622.2900000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1961" y="-864" width="649" height="1047" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-89" target="bXkUD73FwITwWlfWF7Ge-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-89" value="数据整理：测试对象的历史资料，包含操作手册，设计原型文档，历史用例一项或多项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2014" y="-802" width="540" height="78.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-92" target="bXkUD73FwITwWlfWF7Ge-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-92" target="bXkUD73FwITwWlfWF7Ge-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-92" value="按逻辑分块，逻辑包含：操作手册的功能模块分类，设计原型文档中的模块功能分类，文本长度要求限制" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2014" y="-632.25" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-94" target="bXkUD73FwITwWlfWF7Ge-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-94" value="调用视觉理解强大模型每一个分块进行图像数据融合处理，输出增强型文本" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2014" y="-357.5" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-96" target="bXkUD73FwITwWlfWF7Ge-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-96" value="为每一个分块添加来源文件信息，来源模块信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2014" y="-217.5" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-97" value="对每一个知识分块，拆分文本与图像，在文本中标注图像位置" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2014" y="-492.25" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-99" target="bXkUD73FwITwWlfWF7Ge-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-99" value="抽样检查，确保文档规范正确" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2014" y="-77.5" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-100" value="用embedding模型构建知识库" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2014" y="62.5" width="540" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
