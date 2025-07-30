@@ -893,7 +893,7 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-122" target="bXkUD73FwITwWlfWF7Ge-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-122" value="通过大模型生成需求点的实现逻辑" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-122" value="通过大模型生成需求点的实现逻辑，此阶段循环至用户认可结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3413" y="-366.75" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-124" target="bXkUD73FwITwWlfWF7Ge-127">
