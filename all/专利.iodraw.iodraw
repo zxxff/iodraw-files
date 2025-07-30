@@ -878,7 +878,7 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-117" target="bXkUD73FwITwWlfWF7Ge-120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-117" value="智能体接收输入，输入包含需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-117" value="智能体接收输入，输入包含需求分块输入，其他用户输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3413" y="-811.25" width="540" height="78.5" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-120" target="bXkUD73FwITwWlfWF7Ge-122">
