@@ -909,22 +909,22 @@
           <mxGeometry x="3454" y="-114.38" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-134" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4155" y="-857.25" width="675" height="452.25" as="geometry" />
+          <mxGeometry x="2669" y="-288.62" width="675" height="452.25" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-136" target="bXkUD73FwITwWlfWF7Ge-138">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-136" value="智能体接收输入，输入包含需求内容，用户输入，相似需求内容及对应测试用例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4221" y="-797.25" width="540" height="60.87" as="geometry" />
+          <mxGeometry x="2735" y="-228.62" width="540" height="60.87" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-138" target="bXkUD73FwITwWlfWF7Ge-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-138" value="通过大模型对输入内容总结出检索词，检索知识库，输出检索内容" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4221" y="-654.38" width="540" height="60" as="geometry" />
+          <mxGeometry x="2735" y="-85.75" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-144" value="将检索内容，需求内容，用户输入，相似需求内容及对应测试用例传入大模型，对等为新需求生成新的测试用例" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4221" y="-529.13" width="540" height="60" as="geometry" />
+          <mxGeometry x="2735" y="39.5" width="540" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
