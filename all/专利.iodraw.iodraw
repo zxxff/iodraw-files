@@ -857,7 +857,7 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-120" target="bXkUD73FwITwWlfWF7Ge-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-120" value="通过大模型对输入内容总结出检索词，检索知识库，输出检索内容" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-120" value="&lt;span style=&quot;font-family: ipFTOGuUYLjy2GGuCVT7; font-size: 14px; text-align: left; text-indent: 28px;&quot;&gt;通过大模型生成检索词并检索知识库&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3454" y="-654.38" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-122" target="bXkUD73FwITwWlfWF7Ge-124">
