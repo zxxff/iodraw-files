@@ -914,8 +914,8 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-128" value="用embedding模型构建知识库" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3413" y="53.25" width="540" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-129" value="认可" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2505" y="374.25" width="60" height="30" as="geometry" />
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-129" value="用户认可结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3690" y="-420.25" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
