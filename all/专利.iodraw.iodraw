@@ -896,7 +896,7 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-138" value="&lt;span style=&quot;font-family: ipFTOGuUYLjy2GGuCVT7; font-size: 14px; text-align: left; text-indent: 28px;&quot;&gt;通过大模型生成检索词并检索知识库，获得检索内容&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2735" y="-85.75" width="540" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-144" value="将检索内容，需求内容，用户输入，相似需求内容及对应测试用例传入大模型，对等为新需求生成新的测试用例" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-144" value="&lt;span style=&quot;font-family: ipFTOGuUYLjy2GGuCVT7; font-size: 14px; text-align: left; text-indent: 28px;&quot;&gt;将检索内容、需求内容、用户指令、相似需求内容及历史测试用例传入大模型，指导大模型按对等方式生成新需求的测试用例&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2735" y="39.5" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-146" value="&lt;p style=&quot;margin: 7.8pt 0pt 0.0001pt; text-align: left; font-family: Calibri; font-size: 10.5pt; text-wrap: wrap; text-indent: 21pt; line-height: 24pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
