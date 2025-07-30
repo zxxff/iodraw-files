@@ -881,9 +881,6 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-117" value="智能体接收输入，输入包含需求内容，用户输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3765" y="-817" width="540" height="78.5" as="geometry" />
         </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-120" target="bXkUD73FwITwWlfWF7Ge-122">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-120" target="bXkUD73FwITwWlfWF7Ge-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -901,6 +898,9 @@
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-124" value="通过大模型生成部分用例原型，此阶段循环至用户认可结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3413" y="-226.75" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-125" target="bXkUD73FwITwWlfWF7Ge-122">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-125" value="将检索内容，需求内容，用户输入传入大模型，提取出需求点，此阶段循环至用户认可结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3413" y="-501.5" width="540" height="60" as="geometry" />
