@@ -909,7 +909,7 @@
           <mxGeometry x="3454" y="-114.38" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-134" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4155" y="-857.25" width="675" height="885" as="geometry" />
+          <mxGeometry x="4155" y="-857.25" width="675" height="452.25" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-136" target="bXkUD73FwITwWlfWF7Ge-138">
           <mxGeometry relative="1" as="geometry" />
@@ -923,26 +923,8 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-138" value="通过大模型对输入内容总结出检索词，检索知识库，输出检索内容" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4221" y="-654.38" width="540" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-140" target="bXkUD73FwITwWlfWF7Ge-142">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-140" value="通过大模型生成需求点的实现逻辑，此阶段循环至用户认可结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4221" y="-394.38" width="540" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-142" target="bXkUD73FwITwWlfWF7Ge-145">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-142" value="通过大模型生成部分用例原型，此阶段循环至用户认可结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4221" y="-254.38" width="540" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-144" target="bXkUD73FwITwWlfWF7Ge-140">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-144" value="将检索内容，需求内容，用户输入，相似需求内容及对应测试用例传入大模型，此阶段循环至用户认可结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4221" y="-529.13" width="540" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-145" value="通过大模型扩展所有场景的用例，此阶段循环至用户认可结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4221" y="-114.38" width="540" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
