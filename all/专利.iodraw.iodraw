@@ -863,13 +863,13 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-122" target="bXkUD73FwITwWlfWF7Ge-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-122" value="&lt;span style=&quot;font-family: ipFTOGuUYLjy2GGuCVT7; font-size: 14px; text-align: left; text-indent: 28px;&quot;&gt;通过大模型生成需求点的实现逻辑并循环验证&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-122" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: Calibri; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 仿宋_GB2312; font-size: 12pt;&quot;&gt;通过大模型&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋_GB2312; font-size: 12pt;&quot;&gt;提取需求&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋_GB2312; font-size: 12pt;&quot;&gt;点&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋_GB2312; font-size: 12pt;&quot;&gt;并循环验证&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3454" y="-394.38" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-124" target="bXkUD73FwITwWlfWF7Ge-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-124" value="&lt;span style=&quot;font-family: ipFTOGuUYLjy2GGuCVT7; font-size: 14px; text-align: left; text-indent: 28px;&quot;&gt;通过大模型生成部分测试用例原型并循环验证&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-124" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: Calibri; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 仿宋_GB2312; font-size: 12pt;&quot;&gt;通过大模型生成需求点的实现逻辑并循环验证&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3454" y="-254.38" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-125" target="bXkUD73FwITwWlfWF7Ge-122">
