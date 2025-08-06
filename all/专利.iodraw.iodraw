@@ -740,13 +740,13 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-23" target="bXkUD73FwITwWlfWF7Ge-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-23" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 14px; text-align: left; text-indent: 28px;&quot;&gt;标注各知识块的来源文件信息及关联模块信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-23" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: Calibri; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 仿宋_GB2312; font-size: 12pt;&quot;&gt;为增强型文本标注来源文件信息及关联模块信息&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1999" y="-232.5" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-24" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 仿宋_GB2312; font-size: 12pt;&quot;&gt;拆分知识块中的文本数据与图像数据，并在原文本中图像位置处添加图像标识信息&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="1999" y="-507.25" width="540" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-28" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 14px; text-align: left; text-indent: 28px;&quot;&gt;基于嵌入模型构建知识库&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-28" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 仿宋_GB2312; font-size: 12pt;&quot;&gt;基于嵌入模型对所述增强型文本进行向量化处理，构建具有图文语义关联的向量索引库&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="1999" y="-92.5" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-33" value="草稿区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
