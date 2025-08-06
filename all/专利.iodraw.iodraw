@@ -728,7 +728,7 @@
         <mxCell id="bXkUD73FwITwWlfWF7Ge-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-20" target="bXkUD73FwITwWlfWF7Ge-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bXkUD73FwITwWlfWF7Ge-20" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 14px; text-align: left; text-indent: 28px;&quot;&gt;对采集的历史资料按功能分类逻辑、模块分类逻辑或其组合进行分块处理，生成符合预设文本长度限制的知识块&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bXkUD73FwITwWlfWF7Ge-20" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 仿宋_GB2312; font-size: 12pt;&quot;&gt;对采集的历史资料按功能分类逻辑、模块分类逻辑或其组合进行分块处理，生成符合预设文本长度限制的知识块&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="1999" y="-647.25" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXkUD73FwITwWlfWF7Ge-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXkUD73FwITwWlfWF7Ge-22" target="bXkUD73FwITwWlfWF7Ge-23">
