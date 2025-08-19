@@ -1,44 +1,44 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1v9Y1TVSj_XgJqkw9mKx">
-    <mxGraphModel dx="1624" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1224" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="76fEnwUySmcfq-5vSf_j-1" value="专利" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="240" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="76fEnwUySmcfq-5vSf_j-2" value="智能体规划" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry x="417" y="240" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="76fEnwUySmcfq-5vSf_j-3" value="框架调整" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="404" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="424" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="76fEnwUySmcfq-5vSf_j-4" value="评分体系" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="404" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="424" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="76fEnwUySmcfq-5vSf_j-5" value="需求文档规范" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="240" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="76fEnwUySmcfq-5vSf_j-6" value="知识库框架" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="240" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="76fEnwUySmcfq-5vSf_j-7" value="缺陷优化" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="404" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="424" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="76fEnwUySmcfq-5vSf_j-8" value="使用培训" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="570" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="76fEnwUySmcfq-5vSf_j-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="76fEnwUySmcfq-5vSf_j-9" target="76fEnwUySmcfq-5vSf_j-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="76fEnwUySmcfq-5vSf_j-9" value="衍生产品" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="240" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="76fEnwUySmcfq-5vSf_j-10" value="新智能体/新知识库" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="404" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="424" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="76fEnwUySmcfq-5vSf_j-12" value="开发数据管理" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="730" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rCmxJdCM8UG0G8lg0O2a-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -60,8 +60,8 @@
         </mxCell>
         <mxCell id="rCmxJdCM8UG0G8lg0O2a-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-100" y="620" as="sourcePoint" />
-            <mxPoint x="-50" y="570" as="targetPoint" />
+            <mxPoint x="950" y="240" as="sourcePoint" />
+            <mxPoint x="190" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
