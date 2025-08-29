@@ -67,7 +67,7 @@
         <mxCell id="8bP0pQzutowBOtSYJGOh-30" value="2、非知识叠加操作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="-130" y="590" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8bP0pQzutowBOtSYJGOh-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;3、建议生成方法&lt;/h1&gt;&lt;p&gt;（1）测试点/场景 -- 部分用例 -- 全量&lt;/p&gt;&lt;p&gt;（2）已有样例，对等生成&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="8bP0pQzutowBOtSYJGOh-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;3、建议生成方法&lt;/h1&gt;&lt;p&gt;（1）测试点/场景 -- 先生成部分用例 -- 全量&lt;/p&gt;&lt;p&gt;（2）已有样例，对等生成&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="-650" y="1062" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8bP0pQzutowBOtSYJGOh-32" value="补充输出" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
