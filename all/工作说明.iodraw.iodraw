@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="x_rCtF4qKqeu4BD1a8AG">
-    <mxGraphModel dx="1224" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="874" dy="574" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,8 @@
         <mxCell id="LFchK118Hwo4jBzpSTh--5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;3、智能体生成测试用例&lt;/h1&gt;&lt;p&gt;（1）知识库搭建&lt;/p&gt;&lt;p&gt;&lt;br&gt;（1）共享型知识库&lt;/p&gt;&lt;p&gt;（2）稳定&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="40" y="350" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LFchK118Hwo4jBzpSTh--6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;2、内网&lt;/h1&gt;&lt;p&gt;（1）4a-B域-测试域&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="40" y="190" width="180" height="120" as="geometry" />
+        <mxCell id="LFchK118Hwo4jBzpSTh--6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;2、内网&lt;/h1&gt;&lt;p&gt;（1）4a（零信任）：B域-测试域&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="224" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
