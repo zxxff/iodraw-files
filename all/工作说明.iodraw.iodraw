@@ -25,8 +25,8 @@
         <mxCell id="Ok7ynCDgYpDQ3Y3Fsmsq-3" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry x="670" y="775" width="230" height="575" as="geometry" />
         </mxCell>
-        <mxCell id="Ok7ynCDgYpDQ3Y3Fsmsq-4" value="B域" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="195" y="800" width="60" height="30" as="geometry" />
+        <mxCell id="Ok7ynCDgYpDQ3Y3Fsmsq-4" value="B域(生产网)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="195" y="800" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ok7ynCDgYpDQ3Y3Fsmsq-5" value="测试域" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry x="755" y="853" width="60" height="30" as="geometry" />
