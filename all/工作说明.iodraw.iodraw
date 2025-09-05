@@ -8,7 +8,7 @@
           <mxGeometry x="-50" y="50" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LFchK118Hwo4jBzpSTh--5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;4、智能体生成测试用例&lt;/h1&gt;&lt;p&gt;现状&lt;/p&gt;&lt;p&gt;（1）dify -- （先做本地部署）&lt;/p&gt;&lt;p&gt;（2）机器&lt;/p&gt;&lt;p&gt;（3）技术路线&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;要干的活&lt;/p&gt;&lt;p&gt;（1）知识库搭建&lt;/p&gt;&lt;p&gt;（2）稳定&lt;/p&gt;&lt;p&gt;（3）共享型知识库（公开维护）&lt;/p&gt;&lt;p&gt;（4）生成内容评估&lt;/p&gt;&lt;p&gt;（5）升级方案&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="350" width="320" height="545" as="geometry" />
+          <mxGeometry x="377" y="50" width="320" height="545" as="geometry" />
         </mxCell>
         <mxCell id="LFchK118Hwo4jBzpSTh--6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;2、内网&lt;/h1&gt;&lt;p&gt;（1）4a（零信任）：B域-测试域&lt;/p&gt;&lt;p&gt;（2）移动内网&lt;/p&gt;&lt;p&gt;（3）主账号、&lt;span style=&quot;background-color: initial;&quot;&gt;从账号&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry x="-50" y="200" width="224" height="153" as="geometry" />
@@ -78,7 +78,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dLgk_uqbcBEoIApDA4U--3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="-222" y="1740" width="120" height="60" as="geometry" />
+          <mxGeometry x="-222" y="1765" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dLgk_uqbcBEoIApDA4U--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="dLgk_uqbcBEoIApDA4U--5" target="dLgk_uqbcBEoIApDA4U--18" edge="1">
           <mxGeometry relative="1" as="geometry" />
