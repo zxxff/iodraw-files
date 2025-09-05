@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="x_rCtF4qKqeu4BD1a8AG">
-    <mxGraphModel dx="2357" dy="1004" grid="1" gridSize="25" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2051" dy="803" grid="1" gridSize="25" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="-50" y="50" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LFchK118Hwo4jBzpSTh--5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;4、智能体生成测试用例&lt;/h1&gt;&lt;p&gt;现状&lt;/p&gt;&lt;p&gt;（1）dify -- （先做本地部署）&lt;/p&gt;&lt;p&gt;（2）机器&lt;/p&gt;&lt;p&gt;（3）技术路线&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;要干的活&lt;/p&gt;&lt;p&gt;（1）知识库搭建&lt;/p&gt;&lt;p&gt;（2）稳定&lt;/p&gt;&lt;p&gt;（3）共享型知识库（公开维护）&lt;/p&gt;&lt;p&gt;（4）生成内容评估&lt;/p&gt;&lt;p&gt;（5）升级方案&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="350" y="40" width="320" height="545" as="geometry" />
+          <mxGeometry x="350" width="320" height="545" as="geometry" />
         </mxCell>
         <mxCell id="LFchK118Hwo4jBzpSTh--6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;2、内网&lt;/h1&gt;&lt;p&gt;（1）4a（零信任）：B域-测试域&lt;/p&gt;&lt;p&gt;（2）移动内网&lt;/p&gt;&lt;p&gt;（3）主账号、&lt;span style=&quot;background-color: initial;&quot;&gt;从账号&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry x="-50" y="200" width="224" height="153" as="geometry" />
