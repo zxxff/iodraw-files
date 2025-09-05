@@ -20,7 +20,7 @@
           <mxGeometry x="-200" y="775" width="850" height="350" as="geometry" />
         </mxCell>
         <mxCell id="Ok7ynCDgYpDQ3Y3Fsmsq-2" value="堡垒机&lt;div&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;ssh -p 20013 root@&lt;font color=&quot;#ff3333&quot;&gt;10.254.180.144&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;pw: BcLinux2Euler&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=center;" vertex="1" parent="1">
-          <mxGeometry x="112.5" y="875" width="225" height="75" as="geometry" />
+          <mxGeometry x="112.5" y="891.5" width="225" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Ok7ynCDgYpDQ3Y3Fsmsq-3" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="670" y="775" width="680" height="350" as="geometry" />
@@ -41,6 +41,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="25" y="925" as="sourcePoint" />
             <mxPoint x="75" y="875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ok7ynCDgYpDQ3Y3Fsmsq-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ok7ynCDgYpDQ3Y3Fsmsq-2" target="Ok7ynCDgYpDQ3Y3Fsmsq-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="125" y="1075" as="sourcePoint" />
+            <mxPoint x="175" y="1025" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
