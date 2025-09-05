@@ -28,7 +28,7 @@
         <mxCell id="Ok7ynCDgYpDQ3Y3Fsmsq-4" value="B域" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="168" y="800" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ok7ynCDgYpDQ3Y3Fsmsq-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="Ok7ynCDgYpDQ3Y3Fsmsq-5" value="测试域" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="1000" y="800" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
