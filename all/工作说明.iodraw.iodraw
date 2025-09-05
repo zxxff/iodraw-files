@@ -83,7 +83,7 @@
         <mxCell id="dLgk_uqbcBEoIApDA4U--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="dLgk_uqbcBEoIApDA4U--5" target="dLgk_uqbcBEoIApDA4U--18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dLgk_uqbcBEoIApDA4U--5" value="刷新两个中间变量&lt;br&gt;1、需求文档&lt;br&gt;2、检索内容" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="dLgk_uqbcBEoIApDA4U--5" value="刷新两个中间变量&lt;br&gt;1、需求文档 （提取检索词）&lt;br&gt;2、检索内容" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="565" y="1698" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dLgk_uqbcBEoIApDA4U--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="dLgk_uqbcBEoIApDA4U--7" target="dLgk_uqbcBEoIApDA4U--12">
