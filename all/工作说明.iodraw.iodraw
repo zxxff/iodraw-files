@@ -189,7 +189,7 @@
             <mxPoint x="-175" y="2775" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lxu0Omq2CGmtYvcxmIzb-5" value="1、以唯一标签，筛选出AI生成的用例&lt;br&gt;2、与实际的内容做对比" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="Lxu0Omq2CGmtYvcxmIzb-5" value="质量&lt;div&gt;&lt;br&gt;&lt;div&gt;1、以唯一标签，筛选出AI生成的用例&lt;br&gt;2、与实际的内容做对比&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="-336" y="2950" width="301" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Lxu0Omq2CGmtYvcxmIzb-6" value="" style="curved=1;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lxu0Omq2CGmtYvcxmIzb-2" target="Lxu0Omq2CGmtYvcxmIzb-5">
@@ -209,8 +209,8 @@
         <mxCell id="Lxu0Omq2CGmtYvcxmIzb-12" value="1、理解一个工作单位能做什么，并分配合理的工作&lt;div&gt;2、&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=left;" vertex="1" parent="1">
           <mxGeometry x="827" y="2569" width="723" height="306" as="geometry" />
         </mxCell>
-        <mxCell id="Lxu0Omq2CGmtYvcxmIzb-13" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="77" y="2975" width="120" height="60" as="geometry" />
+        <mxCell id="Lxu0Omq2CGmtYvcxmIzb-14" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="75" y="2950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
