@@ -164,7 +164,10 @@
           <mxGeometry x="-73" y="2625" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UvK-pp7GSTVPzSwyFyej-10" value="打上唯一标签" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="226" y="2625" width="120" height="60" as="geometry" />
+          <mxGeometry x="226" y="2625" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UvK-pp7GSTVPzSwyFyej-11" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="377" y="2625" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
