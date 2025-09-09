@@ -221,8 +221,8 @@
         <mxCell id="Lxu0Omq2CGmtYvcxmIzb-17" value="耗时长" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="1170" y="1976" width="50" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="Lxu0Omq2CGmtYvcxmIzb-18" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="780" y="2215" width="120" height="60" as="geometry" />
+        <mxCell id="Lxu0Omq2CGmtYvcxmIzb-18" value="第一轮对话&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="827" y="2125" width="823" height="175" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
