@@ -235,8 +235,11 @@
         <mxCell id="Lxu0Omq2CGmtYvcxmIzb-28" value="文本" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="330" y="3740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lxu0Omq2CGmtYvcxmIzb-29" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="Lxu0Omq2CGmtYvcxmIzb-29" value="图片" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="325" y="3875" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lxu0Omq2CGmtYvcxmIzb-30" value="大模型处理" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="523" y="3815" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
