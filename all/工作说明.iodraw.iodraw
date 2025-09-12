@@ -250,6 +250,15 @@
         <mxCell id="Lxu0Omq2CGmtYvcxmIzb-37" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;dify m&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="159" y="3575" width="50" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="Lxu0Omq2CGmtYvcxmIzb-39" value="质量：计算用户微调程度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="95" y="3901" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Lxu0Omq2CGmtYvcxmIzb-40" value="生成效率：标记上task——id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="94" y="3926" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Lxu0Omq2CGmtYvcxmIzb-41" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="4050" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
