@@ -151,8 +151,8 @@
             <mxPoint x="1890" y="-570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OqxeCGwDF-1oR4q9Qme0-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="-614" width="60" height="30" as="geometry" />
+        <mxCell id="OqxeCGwDF-1oR4q9Qme0-11" value="有可分配权限" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="-614" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
