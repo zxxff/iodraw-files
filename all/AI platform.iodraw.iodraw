@@ -127,6 +127,12 @@
         <mxCell id="OqxeCGwDF-1oR4q9Qme0-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;环境&lt;/h1&gt;&lt;p&gt;1、docker&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="1498" y="450" width="570" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="OqxeCGwDF-1oR4q9Qme0-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="-490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OqxeCGwDF-1oR4q9Qme0-3" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1498" y="-540" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
