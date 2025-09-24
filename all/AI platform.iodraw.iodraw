@@ -26,15 +26,15 @@
           <mxGeometry x="770" y="-125" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N5RVqhol3aB9qwVIkXDY-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="-175" width="20" height="40" as="geometry" />
+          <mxGeometry x="1010" y="-190" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N5RVqhol3aB9qwVIkXDY-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Actor&lt;/h1&gt;&lt;p&gt;具备创建新智能体的能力&lt;/p&gt;&lt;p&gt;worker/leader并存&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="615" y="-90" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="N5RVqhol3aB9qwVIkXDY-15" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1080" y="-110" as="sourcePoint" />
-            <mxPoint x="1050" y="-70" as="targetPoint" />
+            <mxPoint x="1040" y="-110" as="sourcePoint" />
+            <mxPoint x="1060" y="-80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N5RVqhol3aB9qwVIkXDY-17" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
