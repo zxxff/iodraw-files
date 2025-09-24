@@ -127,7 +127,7 @@
         <mxCell id="N5RVqhol3aB9qwVIkXDY-54" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;中间文件规划&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="600" y="360" width="400" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="N5RVqhol3aB9qwVIkXDY-57" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;外部支持&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="N5RVqhol3aB9qwVIkXDY-57" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;外部支持&lt;/h1&gt;&lt;p&gt;1、mcp工具&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="1130" y="370" width="400" height="150" as="geometry" />
         </mxCell>
         <mxCell id="N5RVqhol3aB9qwVIkXDY-60" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;失败处理机制&lt;/h1&gt;&lt;p&gt;1、重新请求&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
