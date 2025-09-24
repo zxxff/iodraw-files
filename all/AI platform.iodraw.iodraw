@@ -70,18 +70,13 @@
         <mxCell id="N5RVqhol3aB9qwVIkXDY-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Task Distribution&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="1290" y="-270" width="230" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="N5RVqhol3aB9qwVIkXDY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="N5RVqhol3aB9qwVIkXDY-31">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1100" y="-76.12195121951208" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="N5RVqhol3aB9qwVIkXDY-31" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="-80" width="20" height="40" as="geometry" />
+          <mxGeometry x="1100" y="-85" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N5RVqhol3aB9qwVIkXDY-32" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1130" y="-125" as="sourcePoint" />
-            <mxPoint x="1100" y="-85" as="targetPoint" />
+            <mxPoint x="1140" y="-130" as="sourcePoint" />
+            <mxPoint x="1120" y="-90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N5RVqhol3aB9qwVIkXDY-33" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
