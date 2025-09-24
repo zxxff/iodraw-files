@@ -113,10 +113,10 @@
           <mxGeometry y="90" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N5RVqhol3aB9qwVIkXDY-50" value="" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-130" width="1740" height="1000" as="geometry" />
+          <mxGeometry x="500" y="-140" width="1740" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="N5RVqhol3aB9qwVIkXDY-51" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;人工干涉机制&lt;/h1&gt;&lt;p&gt;1、开启监听&lt;br&gt;设置waiting状态，k秒&lt;/p&gt;&lt;p&gt;已经开始running&amp;nbsp;&lt;/p&gt;&lt;p&gt;（1）有收到新指令：重新运行&lt;/p&gt;&lt;p&gt;（2）没有：回馈结果&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="-70" width="400" height="150" as="geometry" />
+          <mxGeometry x="1730" y="-70" width="400" height="180" as="geometry" />
         </mxCell>
         <mxCell id="N5RVqhol3aB9qwVIkXDY-52" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;leader-worder交互机制&lt;/h1&gt;&lt;p&gt;1、返工&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="1140" y="-70" width="400" height="150" as="geometry" />
