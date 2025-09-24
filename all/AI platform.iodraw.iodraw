@@ -119,13 +119,13 @@
           <mxGeometry x="585" y="180" width="2025" height="270" as="geometry" />
         </mxCell>
         <mxCell id="N5RVqhol3aB9qwVIkXDY-51" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;干涉机制&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="270" width="400" height="150" as="geometry" />
+          <mxGeometry x="1570" y="210" width="400" height="150" as="geometry" />
         </mxCell>
         <mxCell id="N5RVqhol3aB9qwVIkXDY-52" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;leader-worder交互机制&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="220" width="400" height="150" as="geometry" />
+          <mxGeometry x="1110" y="210" width="400" height="150" as="geometry" />
         </mxCell>
         <mxCell id="N5RVqhol3aB9qwVIkXDY-53" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Task Distribution Rule&lt;/h1&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="210" width="400" height="150" as="geometry" />
+          <mxGeometry x="660" y="210" width="400" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
