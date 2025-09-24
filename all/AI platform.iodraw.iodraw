@@ -124,8 +124,8 @@
         <mxCell id="N5RVqhol3aB9qwVIkXDY-53" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Task Distribution Rule&lt;/h1&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="575" y="-80" width="400" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="N5RVqhol3aB9qwVIkXDY-54" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;干涉机制&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="1495" y="-70" width="400" height="150" as="geometry" />
+        <mxCell id="N5RVqhol3aB9qwVIkXDY-54" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;输出规划&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="-90" width="400" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
