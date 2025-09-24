@@ -133,6 +133,9 @@
         <mxCell id="N5RVqhol3aB9qwVIkXDY-60" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;失败处理机制&lt;/h1&gt;&lt;p&gt;1、重新请求&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="1750" y="370" width="400" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="N5RVqhol3aB9qwVIkXDY-62" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;控制台&lt;/h1&gt;&lt;p&gt;1、开设智能体宽度和深度的限制&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="660" width="570" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
