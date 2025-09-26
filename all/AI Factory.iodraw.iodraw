@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="yyH35fk-codNOqyovyxZ">
-    <mxGraphModel dx="720" dy="1641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="1899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,11 +229,11 @@
         <mxCell id="_g8qoYWMqHOQVpKeB9ob-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;other&lt;/h1&gt;&lt;p&gt;1、支持项目文件架构，mcp识别目录&lt;/p&gt;&lt;p&gt;2、多个模型选择&lt;/p&gt;&lt;p&gt;3、文字量爆炸增长&lt;/p&gt;&lt;p&gt;.4、节点不返回结果&lt;/p&gt;&lt;p&gt;5、返回关键信息即可&lt;/p&gt;&lt;p&gt;6、流程停止&lt;/p&gt;&lt;p&gt;7、用户干涉时的AI支持&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="1815" y="-40" width="245" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="_g8qoYWMqHOQVpKeB9ob-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;数据库&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;针对节点编号，任务状态，任务内容，输出内容的增删改查&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1430" width="180" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="_g8qoYWMqHOQVpKeB9ob-4" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="865" y="1290" width="230" height="220" as="geometry" />
+          <mxGeometry x="590" y="1280" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_g8qoYWMqHOQVpKeB9ob-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;数据库&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;针对节点编号，任务状态，任务内容，输出内容的增删改查&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="615" y="1300" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
