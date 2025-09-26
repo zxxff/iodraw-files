@@ -349,8 +349,8 @@
         <mxCell id="_g8qoYWMqHOQVpKeB9ob-59" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;监控机制&lt;/h1&gt;&lt;p&gt;1、&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="730" y="1570" width="290" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_g8qoYWMqHOQVpKeB9ob-60" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1500" width="180" height="120" as="geometry" />
+        <mxCell id="_g8qoYWMqHOQVpKeB9ob-60" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;全局任务进行说明&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1500" width="260" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
