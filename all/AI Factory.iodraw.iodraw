@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="yyH35fk-codNOqyovyxZ">
-    <mxGraphModel dx="979" dy="1811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1224" dy="1972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -347,7 +347,7 @@
           <mxGeometry x="690" y="1540" width="380" height="320" as="geometry" />
         </mxCell>
         <mxCell id="_g8qoYWMqHOQVpKeB9ob-59" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;监控机制&lt;/h1&gt;&lt;p&gt;1、每隔一段时间扫描一下数据库：&lt;/p&gt;&lt;p&gt;（1）节点编号&lt;/p&gt;&lt;p&gt;（2）任务状态&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="730" y="1570" width="290" height="120" as="geometry" />
+          <mxGeometry x="730" y="1570" width="290" height="260" as="geometry" />
         </mxCell>
         <mxCell id="_g8qoYWMqHOQVpKeB9ob-60" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;全局任务进行说明&lt;/h1&gt;&lt;p&gt;1、&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="300" y="1500" width="260" height="120" as="geometry" />
