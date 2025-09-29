@@ -364,8 +364,8 @@
             <mxPoint x="3150" y="-850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_g8qoYWMqHOQVpKeB9ob-67" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;AIfactory&lt;/h1&gt;&lt;div&gt;AI全自动变编排任务工具&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="3400" y="-850" width="180" height="120" as="geometry" />
+        <mxCell id="_g8qoYWMqHOQVpKeB9ob-67" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;AIfactory&lt;/h1&gt;&lt;div&gt;AI自主&lt;span style=&quot;background-color: initial;&quot;&gt;任务&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;编排工具&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="3250" y="-860" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
