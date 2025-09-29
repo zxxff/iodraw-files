@@ -631,7 +631,7 @@
         <mxCell id="_g8qoYWMqHOQVpKeB9ob-166" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="3220" y="-140" width="580" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="_g8qoYWMqHOQVpKeB9ob-168" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Actor&lt;/h1&gt;&lt;p&gt;1、未处理&lt;/p&gt;&lt;p&gt;2、角色判定中&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="_g8qoYWMqHOQVpKeB9ob-168" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Actor&lt;/h1&gt;&lt;p&gt;1、未处理&lt;/p&gt;&lt;p&gt;2、角色判定中&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;判定失败&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="3250" y="-120" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_g8qoYWMqHOQVpKeB9ob-169" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Leader&lt;/h1&gt;&lt;p&gt;1、未处理，未拆解&lt;/p&gt;&lt;p&gt;2、未拆解，拆解中&lt;/p&gt;&lt;p&gt;3、未处理，已拆解&lt;/p&gt;&lt;p&gt;4、处理中，已拆解&lt;/p&gt;&lt;p&gt;5、已处理，已拆解&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
