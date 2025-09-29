@@ -676,8 +676,8 @@
         <mxCell id="_g8qoYWMqHOQVpKeB9ob-181" value="。。。。。。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="3475" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_g8qoYWMqHOQVpKeB9ob-182" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="3485" y="208" width="50" height="30" as="geometry" />
+        <mxCell id="_g8qoYWMqHOQVpKeB9ob-182" value="状态判断" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="3475" y="208" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
