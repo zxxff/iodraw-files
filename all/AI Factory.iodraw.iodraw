@@ -692,7 +692,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_g8qoYWMqHOQVpKeB9ob-186" value="扫描数据库，做规则判断，更新数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="3655" y="320" width="230" height="30" as="geometry" />
+          <mxGeometry x="3635" y="320" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_g8qoYWMqHOQVpKeB9ob-187" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3180" y="600" as="sourcePoint" />
+            <mxPoint x="3230" y="550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
