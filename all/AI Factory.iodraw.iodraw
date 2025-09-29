@@ -691,8 +691,8 @@
             <mxPoint x="3420" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_g8qoYWMqHOQVpKeB9ob-186" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="3705" y="338" width="50" height="30" as="geometry" />
+        <mxCell id="_g8qoYWMqHOQVpKeB9ob-186" value="扫描数据库，更新数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="3780" y="350" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
