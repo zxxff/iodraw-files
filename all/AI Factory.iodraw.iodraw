@@ -391,7 +391,7 @@
         <mxCell id="_g8qoYWMqHOQVpKeB9ob-96" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Actor&lt;/h1&gt;&lt;p&gt;具备创建新AI节点的能力&lt;/p&gt;&lt;p&gt;worker/leader并存&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="3265" y="-607.5" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_g8qoYWMqHOQVpKeB9ob-97" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="_g8qoYWMqHOQVpKeB9ob-97" value="Worker 1-1-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="3600" y="-440" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_g8qoYWMqHOQVpKeB9ob-98" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
