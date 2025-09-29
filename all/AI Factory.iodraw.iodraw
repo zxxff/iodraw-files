@@ -386,7 +386,7 @@
           <mxGeometry x="3420" y="-632.5" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_g8qoYWMqHOQVpKeB9ob-95" value="Leader 1-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="3695" y="-557.5" width="20" height="40" as="geometry" />
+          <mxGeometry x="3650" y="-562.5" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_g8qoYWMqHOQVpKeB9ob-96" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Actor&lt;/h1&gt;&lt;p&gt;具备创建新AI节点的能力&lt;/p&gt;&lt;p&gt;worker/leader并存&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="3265" y="-607.5" width="180" height="120" as="geometry" />
@@ -397,7 +397,7 @@
         <mxCell id="_g8qoYWMqHOQVpKeB9ob-98" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3775" y="-607.5" as="sourcePoint" />
-            <mxPoint x="3725" y="-562.5" as="targetPoint" />
+            <mxPoint x="3670" y="-570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_g8qoYWMqHOQVpKeB9ob-99" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
@@ -412,7 +412,7 @@
         <mxCell id="_g8qoYWMqHOQVpKeB9ob-101" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3795" y="-607.5" as="sourcePoint" />
-            <mxPoint x="3825" y="-567.5" as="targetPoint" />
+            <mxPoint x="3850" y="-570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_g8qoYWMqHOQVpKeB9ob-102" value="Leader 1-2" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
@@ -454,7 +454,7 @@
         <mxCell id="_g8qoYWMqHOQVpKeB9ob-111" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3815" y="-607.5" as="sourcePoint" />
-            <mxPoint x="3885" y="-577.5" as="targetPoint" />
+            <mxPoint x="3885" y="-578" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_g8qoYWMqHOQVpKeB9ob-112" value="Leader 1-4" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
