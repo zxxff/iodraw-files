@@ -706,7 +706,7 @@
         <mxCell id="ENRB2anKuztWIz5kRn9U-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;why&lt;/h1&gt;&lt;p&gt;1、对现实模拟 = 潜力大&lt;/p&gt;&lt;p&gt;2、多节点同时处理多任务 - 高效&lt;/p&gt;&lt;p&gt;3、任务处理量越小 - 质量越高&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="3240" y="650" width="260" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="ENRB2anKuztWIz5kRn9U-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;problem&lt;/h1&gt;&lt;p&gt;1、开销大&lt;/p&gt;&lt;p&gt;2、&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="ENRB2anKuztWIz5kRn9U-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;problem&lt;/h1&gt;&lt;p&gt;1、开销大 - 任务描述能力要求高&lt;/p&gt;&lt;p&gt;2、易失控 - v2加入人工干涉&lt;/p&gt;&lt;p&gt;3、节点之间的信息共享、多轮交互不易实现&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="3580" y="640" width="260" height="180" as="geometry" />
         </mxCell>
       </root>
