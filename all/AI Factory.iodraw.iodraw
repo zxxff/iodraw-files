@@ -709,8 +709,11 @@
         <mxCell id="ENRB2anKuztWIz5kRn9U-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;negative&lt;/h1&gt;&lt;p&gt;1、开销大&lt;/p&gt;&lt;p&gt;2、对使用者任务描述能力较高&lt;/p&gt;&lt;p&gt;3、易失控 （v2）加入人工干涉&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry x="3580" y="640" width="260" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="VPY1pDTHC4K11_D1ok9Q-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="3445" y="-302" width="50" height="30" as="geometry" />
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-7" value="✅" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="3590" y="-320" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-8" value="✅" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="3600" y="-310" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
