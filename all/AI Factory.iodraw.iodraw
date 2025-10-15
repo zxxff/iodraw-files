@@ -922,7 +922,7 @@
           <mxGeometry x="4125" y="1060" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VPY1pDTHC4K11_D1ok9Q-87" value="leader&lt;br&gt;未处理，已拆解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="4217.5599999999995" y="1050" width="110" height="40" as="geometry" />
+          <mxGeometry x="4217.5599999999995" y="1060" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VPY1pDTHC4K11_D1ok9Q-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VPY1pDTHC4K11_D1ok9Q-85" target="VPY1pDTHC4K11_D1ok9Q-86">
           <mxGeometry relative="1" as="geometry">
@@ -942,6 +942,9 @@
         </mxCell>
         <mxCell id="VPY1pDTHC4K11_D1ok9Q-91" value="结束" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="4244.2300000000005" y="965" width="58.65" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-93" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;状态&lt;/h1&gt;&lt;p&gt;1、正常：&lt;/p&gt;&lt;p&gt;worker，未处理，正常 --- worker，处理中，正常 ---&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;worker，已处理，正常&lt;/span&gt;&lt;/p&gt;&lt;p&gt;2、暂停&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（1）更新状态表&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;worker，未处理/处理中/已处理，正常 --- worker，未处理，暂停&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（2）执行取消操作&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、人工优化&lt;br&gt;&lt;/span&gt;（1）执行取消操作&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（2）更新状态表&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;worker，未处理/处理中/已处理，正常 --- worker，未处理，正常&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="4395" y="445" width="480" height="325" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
