@@ -860,8 +860,8 @@
         <mxCell id="VPY1pDTHC4K11_D1ok9Q-71" value="回答写入" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="4145" y="695" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VPY1pDTHC4K11_D1ok9Q-72" value="worker/leader&lt;br&gt;未处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="4237.5599999999995" y="685" width="110" height="40" as="geometry" />
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-72" value="worker&lt;br&gt;已处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="4257.5599999999995" y="685" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VPY1pDTHC4K11_D1ok9Q-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VPY1pDTHC4K11_D1ok9Q-70" target="VPY1pDTHC4K11_D1ok9Q-71">
           <mxGeometry relative="1" as="geometry">
