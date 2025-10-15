@@ -793,6 +793,9 @@
             <mxPoint x="4210" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-31" value="执行角色判定" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="4165" y="245" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
