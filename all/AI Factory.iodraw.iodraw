@@ -836,8 +836,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VPY1pDTHC4K11_D1ok9Q-65" value="角色判定中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="4254.23" y="545" width="80" height="30" as="geometry" />
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-65" value="处理中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="4264.23" y="545" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPY1pDTHC4K11_D1ok9Q-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="VPY1pDTHC4K11_D1ok9Q-67" target="VPY1pDTHC4K11_D1ok9Q-65">
           <mxGeometry relative="1" as="geometry" />
