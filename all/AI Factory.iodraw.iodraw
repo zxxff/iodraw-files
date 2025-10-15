@@ -787,13 +787,13 @@
         <mxCell id="VPY1pDTHC4K11_D1ok9Q-27" value="执行角色判定" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="4165" y="160" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VPY1pDTHC4K11_D1ok9Q-30" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VPY1pDTHC4K11_D1ok9Q-27">
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-30" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VPY1pDTHC4K11_D1ok9Q-27" target="VPY1pDTHC4K11_D1ok9Q-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4120" y="280" as="sourcePoint" />
             <mxPoint x="4210" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VPY1pDTHC4K11_D1ok9Q-31" value="执行角色判定" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-31" value="点？" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="4165" y="245" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
