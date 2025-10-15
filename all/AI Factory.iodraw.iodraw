@@ -958,14 +958,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VPY1pDTHC4K11_D1ok9Q-96" value="拆解中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-96" value="整合中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="4230" y="1355" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPY1pDTHC4K11_D1ok9Q-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="VPY1pDTHC4K11_D1ok9Q-98" target="VPY1pDTHC4K11_D1ok9Q-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VPY1pDTHC4K11_D1ok9Q-98" value="leader&lt;br&gt;未处理，已拆解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="4205" y="1260" width="110" height="40" as="geometry" />
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-98" value="leader&lt;br&gt;未处理/返工中，已拆解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="4185" y="1260" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VPY1pDTHC4K11_D1ok9Q-99" value="任务拆解" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="4110.77" y="1350" width="90" height="40" as="geometry" />
