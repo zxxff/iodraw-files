@@ -800,7 +800,7 @@
           <mxGeometry x="4165" y="330" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VPY1pDTHC4K11_D1ok9Q-35" value="worker/leader&lt;br&gt;未处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="4259.23" y="320" width="110" height="40" as="geometry" />
+          <mxGeometry x="4257.5599999999995" y="320" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VPY1pDTHC4K11_D1ok9Q-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VPY1pDTHC4K11_D1ok9Q-31" target="VPY1pDTHC4K11_D1ok9Q-33">
           <mxGeometry relative="1" as="geometry">
@@ -823,6 +823,67 @@
         </mxCell>
         <mxCell id="VPY1pDTHC4K11_D1ok9Q-61" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;状态&lt;/h1&gt;&lt;p&gt;1、actor，未处理，正常 --- actor，处理中，正常&lt;/p&gt;&lt;p&gt;2、暂停：&lt;/p&gt;&lt;p&gt;（1）&lt;span style=&quot;background-color: initial;&quot;&gt;actor，未处理/处理中，正常 --- actor，未处理，暂停&lt;/span&gt;&lt;/p&gt;&lt;p&gt;（2）&lt;span style=&quot;background-color: initial;&quot;&gt;执行取消操作&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="4400" y="110" width="345" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-63" value="actor" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="4190" y="80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-64" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VPY1pDTHC4K11_D1ok9Q-63" target="VPY1pDTHC4K11_D1ok9Q-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4220" y="210" as="sourcePoint" />
+            <mxPoint x="4220" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4220" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-65" value="角色判定中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="4284.23" y="190" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="VPY1pDTHC4K11_D1ok9Q-67" target="VPY1pDTHC4K11_D1ok9Q-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-67" value="actor&lt;br&gt;未处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="4294.23" y="80" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-68" value="执行角色判定" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="4175" y="170" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-69" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VPY1pDTHC4K11_D1ok9Q-68" target="VPY1pDTHC4K11_D1ok9Q-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4130" y="290" as="sourcePoint" />
+            <mxPoint x="4220" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-70" value="（1）点没了&lt;br&gt;（2）被取消" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="4180" y="247.5" width="80" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-71" value="角色写入" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="4175" y="340" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-72" value="worker/leader&lt;br&gt;未处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="4267.5599999999995" y="330" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VPY1pDTHC4K11_D1ok9Q-70" target="VPY1pDTHC4K11_D1ok9Q-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4220.000000000001" y="345" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="VPY1pDTHC4K11_D1ok9Q-65" target="VPY1pDTHC4K11_D1ok9Q-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4324" y="220" as="sourcePoint" />
+            <mxPoint x="4324" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.513;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VPY1pDTHC4K11_D1ok9Q-76" target="VPY1pDTHC4K11_D1ok9Q-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4324.214285714286" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-76" value="结束" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="4294.2300000000005" y="245" width="58.65" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-77" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;状态&lt;/h1&gt;&lt;p&gt;1、actor，未处理，正常 --- actor，处理中，正常&lt;/p&gt;&lt;p&gt;2、暂停：&lt;/p&gt;&lt;p&gt;（1）&lt;span style=&quot;background-color: initial;&quot;&gt;actor，未处理/处理中，正常 --- actor，未处理，暂停&lt;/span&gt;&lt;/p&gt;&lt;p&gt;（2）&lt;span style=&quot;background-color: initial;&quot;&gt;执行取消操作&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="4410" y="120" width="345" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
