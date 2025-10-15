@@ -1006,8 +1006,8 @@
         <mxCell id="VPY1pDTHC4K11_D1ok9Q-107" value="结束" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="4246.000000000001" y="1425" width="58.65" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="VPY1pDTHC4K11_D1ok9Q-109" value="所有子节点已经结束处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="4220" y="1308" width="160" height="30" as="geometry" />
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-109" value="下级子节点✅" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="4295" y="1310" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
