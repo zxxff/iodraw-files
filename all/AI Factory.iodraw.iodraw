@@ -984,7 +984,7 @@
         <mxCell id="VPY1pDTHC4K11_D1ok9Q-102" value="回答写入" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="4110.77" y="1520" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VPY1pDTHC4K11_D1ok9Q-103" value="leader&lt;br&gt;已处理/待返工，已拆解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-103" value="leader&lt;br&gt;已处理/返工中，已拆解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="4199.23" y="1520" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VPY1pDTHC4K11_D1ok9Q-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VPY1pDTHC4K11_D1ok9Q-101" target="VPY1pDTHC4K11_D1ok9Q-102">
@@ -1007,7 +1007,7 @@
           <mxGeometry x="4246.000000000001" y="1425" width="58.65" height="35" as="geometry" />
         </mxCell>
         <mxCell id="VPY1pDTHC4K11_D1ok9Q-108" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="4285" y="1328" width="50" height="30" as="geometry" />
+          <mxGeometry x="4284.23" y="1310" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
