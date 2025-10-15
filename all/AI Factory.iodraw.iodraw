@@ -805,12 +805,6 @@
         <mxCell id="VPY1pDTHC4K11_D1ok9Q-35" value="worker/leader&lt;br&gt;未处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="4259.23" y="375" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VPY1pDTHC4K11_D1ok9Q-37" value="状态：正常" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="4400" y="80" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VPY1pDTHC4K11_D1ok9Q-50" value="暂停" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="4415" y="120" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="VPY1pDTHC4K11_D1ok9Q-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="VPY1pDTHC4K11_D1ok9Q-51" target="VPY1pDTHC4K11_D1ok9Q-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -834,6 +828,9 @@
         </mxCell>
         <mxCell id="VPY1pDTHC4K11_D1ok9Q-56" value="结束" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="4274.23" y="235" width="80.77" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="VPY1pDTHC4K11_D1ok9Q-61" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;状态&lt;/h1&gt;&lt;p&gt;1、正常&lt;/p&gt;&lt;p&gt;2、暂停：&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="4405" y="60" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
