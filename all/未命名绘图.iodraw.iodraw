@@ -14,10 +14,10 @@
           <mxGeometry x="985" y="218" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xkzn1I-irQkFgP1gL-G3-12" value="🟢" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="268" width="40" height="30" as="geometry" />
+          <mxGeometry x="1420" y="110" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xkzn1I-irQkFgP1gL-G3-13" value="🔴" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="298" width="40" height="30" as="geometry" />
+          <mxGeometry x="1370" y="140" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
