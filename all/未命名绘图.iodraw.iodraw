@@ -13,8 +13,13 @@
         <mxCell id="xkzn1I-irQkFgP1gL-G3-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="985" y="218" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xkzn1I-irQkFgP1gL-G3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="xkzn1I-irQkFgP1gL-G3-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1360" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xkzn1I-irQkFgP1gL-G3-12" value="🟢" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="212" width="40" height="30" as="geometry" />
+          <mxGeometry x="1369" y="190" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xkzn1I-irQkFgP1gL-G3-13" value="🔴" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="1201" y="200" width="40" height="30" as="geometry" />
