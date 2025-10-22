@@ -1232,7 +1232,10 @@
           <mxGeometry x="6480" y="-672.5" width="680" height="540" as="geometry" />
         </mxCell>
         <mxCell id="kfscXUZ5M7C75Mz8AEiX-50" value="" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="6300" y="-527" width="120" height="80" as="geometry" />
+          <mxGeometry x="6300" y="-527" width="90" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="kfscXUZ5M7C75Mz8AEiX-51" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="6500" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
