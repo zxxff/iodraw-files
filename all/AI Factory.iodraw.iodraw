@@ -1325,7 +1325,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="19kQZAdqJkyXEB-CueTh-23" value="刷新按钮" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="6330" y="-952" width="80" height="32" as="geometry" />
+          <mxGeometry x="6145" y="-940" width="65" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
