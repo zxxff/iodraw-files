@@ -1324,6 +1324,9 @@
             <mxPoint x="6099" y="-822" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="19kQZAdqJkyXEB-CueTh-22" value="刷新按键" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="6305" y="-902" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
