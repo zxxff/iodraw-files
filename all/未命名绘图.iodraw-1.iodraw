@@ -28,7 +28,7 @@
         <mxCell id="HtxPnJGY_2VPQjI8CA-G-7" value="B域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry x="810" y="100" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HtxPnJGY_2VPQjI8CA-G-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" edge="1">
+        <mxCell id="HtxPnJGY_2VPQjI8CA-G-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="HtxPnJGY_2VPQjI8CA-G-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="350" as="sourcePoint" />
             <mxPoint x="330" y="350" as="targetPoint" />
@@ -79,7 +79,7 @@
             <mxPoint x="710" y="205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HtxPnJGY_2VPQjI8CA-G-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" edge="1">
+        <mxCell id="HtxPnJGY_2VPQjI8CA-G-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=-0.02;entryY=0.599;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="HtxPnJGY_2VPQjI8CA-G-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="310" as="sourcePoint" />
             <mxPoint x="310" y="240" as="targetPoint" />
@@ -117,6 +117,9 @@
         </mxCell>
         <mxCell id="sJRMDQEkll0OvNP5kid3-7" value="testing&lt;div&gt;123&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="40" y="413" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sJRMDQEkll0OvNP5kid3-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="315" y="368" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
