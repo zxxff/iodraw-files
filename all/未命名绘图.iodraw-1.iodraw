@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HtxPnJGY_2VPQjI8CA-G-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="HtxPnJGY_2VPQjI8CA-G-1" target="HtxPnJGY_2VPQjI8CA-G-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HtxPnJGY_2VPQjI8CA-G-1" value="10.248.193.8&lt;div&gt;10.248.193.5&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="430" y="320" width="120" height="60" as="geometry" />
         </mxCell>
@@ -27,12 +30,6 @@
         </mxCell>
         <mxCell id="HtxPnJGY_2VPQjI8CA-G-7" value="B域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="810" y="100" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HtxPnJGY_2VPQjI8CA-G-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="350" as="sourcePoint" />
-            <mxPoint x="420" y="360" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="HtxPnJGY_2VPQjI8CA-G-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
