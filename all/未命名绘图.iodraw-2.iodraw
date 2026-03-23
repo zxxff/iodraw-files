@@ -8,7 +8,7 @@
           <mxGeometry x="130" y="175" width="330" height="410" as="geometry" />
         </mxCell>
         <mxCell id="MiFSQ06wL22Jxc9IzBcF-2" value="返回 “success” 或 “fail”" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="520" y="180" width="340" height="410" as="geometry" />
+          <mxGeometry x="540" y="260" width="230" height="190" as="geometry" />
         </mxCell>
         <mxCell id="MiFSQ06wL22Jxc9IzBcF-3" value="开始k轮尝试" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="90" height="30" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="270" y="140" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MiFSQ06wL22Jxc9IzBcF-6" value="接受单元" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="660" y="140" width="60" height="30" as="geometry" />
+          <mxGeometry x="625" y="200" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
