@@ -74,10 +74,10 @@
           <mxGeometry x="-456" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MiFSQ06wL22Jxc9IzBcF-29" value="2026-03-23" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-500" y="225" width="80" height="30" as="geometry" />
+          <mxGeometry x="-503" y="225" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MiFSQ06wL22Jxc9IzBcF-30" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-407" y="225" width="60" height="30" as="geometry" />
+          <mxGeometry x="-410" y="225" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MiFSQ06wL22Jxc9IzBcF-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;状态说明&lt;/h1&gt;&lt;p&gt;A：已推送&lt;/p&gt;&lt;p&gt;B：未推送&lt;/p&gt;&lt;p&gt;C：推送未成功&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="-516" y="585" width="180" height="120" as="geometry" />
@@ -95,10 +95,10 @@
           <mxGeometry x="-410" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MiFSQ06wL22Jxc9IzBcF-36" value="2026-03-26" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-506" y="335" width="80" height="30" as="geometry" />
+          <mxGeometry x="-504" y="335" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MiFSQ06wL22Jxc9IzBcF-37" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-413" y="335" width="60" height="30" as="geometry" />
+          <mxGeometry x="-411" y="335" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MiFSQ06wL22Jxc9IzBcF-38" value="2026-03-23" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="-506" y="375" width="80" height="30" as="geometry" />
