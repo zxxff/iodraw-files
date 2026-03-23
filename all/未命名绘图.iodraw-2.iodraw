@@ -133,8 +133,8 @@
             <mxPoint x="168" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MiFSQ06wL22Jxc9IzBcF-51" value="聚合代码新增当天日期的状态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="502" width="120" height="58" as="geometry" />
+        <mxCell id="MiFSQ06wL22Jxc9IzBcF-51" value="聚合代码新增状态增加" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="502" width="80" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
