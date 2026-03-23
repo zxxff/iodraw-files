@@ -82,6 +82,12 @@
         <mxCell id="MiFSQ06wL22Jxc9IzBcF-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;状态说明&lt;/h1&gt;&lt;p&gt;A：已推送&lt;/p&gt;&lt;p&gt;B：未推送&lt;/p&gt;&lt;p&gt;C：推送未成功&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="-516" y="585" width="180" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="MiFSQ06wL22Jxc9IzBcF-32" value="2026-03-23" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="235" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MiFSQ06wL22Jxc9IzBcF-33" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-397" y="235" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
