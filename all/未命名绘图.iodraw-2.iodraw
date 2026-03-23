@@ -64,10 +64,13 @@
         <mxCell id="MiFSQ06wL22Jxc9IzBcF-25" value="&amp;gt; k" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="170" y="520" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MiFSQ06wL22Jxc9IzBcF-26" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-533" y="180" width="213" height="550" as="geometry" />
+        </mxCell>
         <mxCell id="MiFSQ06wL22Jxc9IzBcF-27" value="取数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="-135" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MiFSQ06wL22Jxc9IzBcF-28" value="获取单元" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="MiFSQ06wL22Jxc9IzBcF-28" value="状态表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="-456" y="130" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
