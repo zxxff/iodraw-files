@@ -25,7 +25,7 @@
         <mxCell id="MiFSQ06wL22Jxc9IzBcF-8" value="开始k轮尝试" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="250" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MiFSQ06wL22Jxc9IzBcF-9" value="开始k轮尝试" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="MiFSQ06wL22Jxc9IzBcF-9" value="post推送" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="250" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
