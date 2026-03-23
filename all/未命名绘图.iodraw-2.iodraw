@@ -134,7 +134,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MiFSQ06wL22Jxc9IzBcF-51" value="聚合代码新增状态增加" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="502" width="80" height="58" as="geometry" />
+          <mxGeometry x="-670" y="527" width="80" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="MiFSQ06wL22Jxc9IzBcF-52" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="MiFSQ06wL22Jxc9IzBcF-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-590" y="560" as="sourcePoint" />
+            <mxPoint x="-540" y="510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
