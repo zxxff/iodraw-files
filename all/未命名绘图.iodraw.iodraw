@@ -16,11 +16,11 @@
         <mxCell id="YcNABcLFpoVkjMtgrmDJ-6" value="智能单元&lt;div&gt;（目标）&lt;br&gt;1、注入信息准备 --&amp;nbsp; 注入信息是指拨打电话前，根据历史背景资料，准备好开场白和应对内容&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-330" y="100" width="270" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="YcNABcLFpoVkjMtgrmDJ-7" value="数据管理&lt;div&gt;1、阿里云通话数据拉取、管理&lt;/div&gt;&lt;div&gt;2、对话数据管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YcNABcLFpoVkjMtgrmDJ-7" value="数据管理&lt;div&gt;1、阿里云通话数据拉取、管理&lt;/div&gt;&lt;div&gt;2、人工对话数据管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-290" y="250" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YcNABcLFpoVkjMtgrmDJ-8" value="大傻瓜酷炫前台&lt;div&gt;1、人工通话结果上传&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="280" width="230" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
