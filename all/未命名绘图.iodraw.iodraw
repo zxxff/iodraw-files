@@ -8,7 +8,7 @@
           <mxGeometry x="30" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YcNABcLFpoVkjMtgrmDJ-2" value="日志模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YcNABcLFpoVkjMtgrmDJ-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;设定&lt;/h1&gt;&lt;p&gt;1、web服务形式&lt;/p&gt;&lt;p&gt;2、操作留痕-追溯&lt;/p&gt;&lt;p&gt;3、&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="-30" width="180" height="120" as="geometry" />
@@ -17,7 +17,10 @@
           <mxGeometry x="-180" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YcNABcLFpoVkjMtgrmDJ-7" value="数据管理&lt;div&gt;1、&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="-170" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YcNABcLFpoVkjMtgrmDJ-8" value="大傻瓜酷炫前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
