@@ -99,7 +99,7 @@
           <mxGeometry x="800" y="770" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p8umoCd3dgG_TbbseDLM-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1409" y="480" width="440" height="240" as="geometry" />
+          <mxGeometry x="1400" y="480" width="440" height="240" as="geometry" />
         </mxCell>
         <mxCell id="p8umoCd3dgG_TbbseDLM-32" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;系统用户可干预项&lt;/h1&gt;&lt;p&gt;1、系统暂停、启动&lt;/p&gt;&lt;p&gt;2、设定清单呼出数量&lt;/p&gt;&lt;p&gt;3、上传人工通话记录&lt;/p&gt;&lt;p&gt;4、干预呼出内容&lt;/p&gt;&lt;p&gt;5、基本信息查询、修改&lt;/p&gt;&lt;p&gt;6、提前数据结算导出&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1440" y="500" width="280" height="350" as="geometry" />
@@ -133,9 +133,6 @@
         </mxCell>
         <mxCell id="p8umoCd3dgG_TbbseDLM-44" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;日志单元&lt;/h1&gt;&lt;p&gt;1、所有记录留痕&lt;/p&gt;&lt;p&gt;2、能追溯执行者，执行时间&lt;/p&gt;&lt;p&gt;3、分模块记录 -- 用户的操作日志、系统运转日志、崩溃日志&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="1300" width="340" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="p8umoCd3dgG_TbbseDLM-45" value="崩溃重启模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="670" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
