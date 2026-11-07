@@ -101,7 +101,7 @@
         <mxCell id="p8umoCd3dgG_TbbseDLM-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1410" y="480" width="440" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="p8umoCd3dgG_TbbseDLM-32" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;系统用户可干预项&lt;/h1&gt;&lt;p&gt;1、系统暂停、启动&lt;/p&gt;&lt;p&gt;2、设定清单呼出数量&lt;/p&gt;&lt;p&gt;3、上传人工通话记录&lt;/p&gt;&lt;p&gt;4、干预呼出内容&lt;/p&gt;&lt;p&gt;5、基本信息查询、修改&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p8umoCd3dgG_TbbseDLM-32" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;系统用户可干预项&lt;/h1&gt;&lt;p&gt;1、系统暂停、启动&lt;/p&gt;&lt;p&gt;2、设定清单呼出数量&lt;/p&gt;&lt;p&gt;3、上传人工通话记录&lt;/p&gt;&lt;p&gt;4、干预呼出内容&lt;/p&gt;&lt;p&gt;5、基本信息查询、修改&lt;/p&gt;&lt;p&gt;6、提前的一份数据结算&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1440" y="500" width="280" height="350" as="geometry" />
         </mxCell>
         <mxCell id="p8umoCd3dgG_TbbseDLM-33" value="呼出单元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
