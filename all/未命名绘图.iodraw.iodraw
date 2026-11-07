@@ -92,14 +92,8 @@
         <mxCell id="p8umoCd3dgG_TbbseDLM-25" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;运作流转机制&lt;/h1&gt;&lt;p&gt;1、默认的自动外呼&lt;/p&gt;&lt;p&gt;2、人工干预外呼&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="540" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="p8umoCd3dgG_TbbseDLM-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="680" width="530" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="p8umoCd3dgG_TbbseDLM-27" value="清单查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="750" width="80" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="p8umoCd3dgG_TbbseDLM-28" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;（1）自动外呼&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="690" width="180" height="40" as="geometry" />
+        <mxCell id="p8umoCd3dgG_TbbseDLM-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
