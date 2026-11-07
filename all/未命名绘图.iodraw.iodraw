@@ -128,8 +128,11 @@
         <mxCell id="p8umoCd3dgG_TbbseDLM-41" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;报表生成单元&lt;/h1&gt;&lt;p&gt;1、html 模版&lt;/p&gt;&lt;p&gt;2、当日呼出情况&lt;/p&gt;&lt;p&gt;3、概要总结&lt;/p&gt;&lt;p&gt;4、事项提醒&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1420" y="1220" width="340" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="p8umoCd3dgG_TbbseDLM-42" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1280" width="120" height="60" as="geometry" />
+        <mxCell id="p8umoCd3dgG_TbbseDLM-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="1270" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-44" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1300" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
