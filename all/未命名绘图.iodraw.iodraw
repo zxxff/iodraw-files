@@ -134,8 +134,8 @@
         <mxCell id="p8umoCd3dgG_TbbseDLM-44" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;日志单元&lt;/h1&gt;&lt;p&gt;1、所有记录留痕&lt;/p&gt;&lt;p&gt;2、能追溯执行者，执行时间&lt;/p&gt;&lt;p&gt;3、分模块记录 -- 用户的操作日志、系统运转日志、崩溃日志&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="1300" width="340" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="p8umoCd3dgG_TbbseDLM-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="670" width="120" height="60" as="geometry" />
+        <mxCell id="p8umoCd3dgG_TbbseDLM-45" value="崩溃重启模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="670" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
