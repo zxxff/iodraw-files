@@ -101,8 +101,8 @@
         <mxCell id="p8umoCd3dgG_TbbseDLM-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1410" y="480" width="440" height="510" as="geometry" />
         </mxCell>
-        <mxCell id="p8umoCd3dgG_TbbseDLM-32" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;系统user可干预项&lt;/h1&gt;&lt;p&gt;1、系统暂停、启动&lt;/p&gt;&lt;p&gt;2、设定清单呼出数量&lt;/p&gt;&lt;p&gt;3、&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="500" width="280" height="120" as="geometry" />
+        <mxCell id="p8umoCd3dgG_TbbseDLM-32" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;系统用户可干预项&lt;/h1&gt;&lt;p&gt;1、系统暂停、启动&lt;/p&gt;&lt;p&gt;2、设定清单呼出数量&lt;/p&gt;&lt;p&gt;3、&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="500" width="280" height="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
