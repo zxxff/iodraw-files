@@ -34,6 +34,14 @@
             <mxPoint x="-200" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-6" value="input：Phone Number" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p8umoCd3dgG_TbbseDLM-4">
+          <mxGeometry x="-0.0593" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
