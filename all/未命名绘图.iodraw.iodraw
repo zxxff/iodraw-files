@@ -30,11 +30,11 @@
         </mxCell>
         <mxCell id="p8umoCd3dgG_TbbseDLM-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="p8umoCd3dgG_TbbseDLM-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-250" y="780" as="sourcePoint" />
+            <mxPoint x="-290" y="770" as="sourcePoint" />
             <mxPoint x="-200" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p8umoCd3dgG_TbbseDLM-6" value="input：Phone Number" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p8umoCd3dgG_TbbseDLM-4">
+        <mxCell id="p8umoCd3dgG_TbbseDLM-6" value="Phone Number" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p8umoCd3dgG_TbbseDLM-4">
           <mxGeometry x="-0.0593" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
