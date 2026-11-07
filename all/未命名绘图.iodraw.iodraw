@@ -92,7 +92,7 @@
         <mxCell id="p8umoCd3dgG_TbbseDLM-25" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;运作流转机制&lt;/h1&gt;&lt;p&gt;1、默认的自动外呼&lt;/p&gt;&lt;p&gt;2、人工干预外呼&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="540" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="p8umoCd3dgG_TbbseDLM-29" value="当日呼出清单查询计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p8umoCd3dgG_TbbseDLM-29" value="呼出清单计算单元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="670" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p8umoCd3dgG_TbbseDLM-30" value="根据电话，执行信息处理单元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -111,7 +111,7 @@
           <mxGeometry x="1400" y="752.5" width="440" height="157.5" as="geometry" />
         </mxCell>
         <mxCell id="p8umoCd3dgG_TbbseDLM-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;呼出清单计算单元&lt;/h1&gt;&lt;p&gt;1、能接受临时插入&lt;/p&gt;&lt;p&gt;2、能扩能减&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="770" width="340" height="120" as="geometry" />
+          <mxGeometry x="1430" y="770" width="340" height="120" as="geometry" />
         </mxCell>
         <mxCell id="p8umoCd3dgG_TbbseDLM-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="940" width="440" height="210" as="geometry" />
