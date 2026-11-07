@@ -56,6 +56,9 @@
             <mxPoint x="20" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-10" value="1、根据对话查询数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="830" width="140" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
