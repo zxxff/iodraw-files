@@ -83,6 +83,9 @@
         <mxCell id="p8umoCd3dgG_TbbseDLM-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;数据库结构&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-300" y="1030" width="180" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-18" value="&lt;div style=&quot;text-align: left;&quot;&gt;表1: 对话记录表&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1、ID - 用户电话&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2、姓名&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3、轮次&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;4、日期&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;5、通话状态&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="1120" width="260" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
