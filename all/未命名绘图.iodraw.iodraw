@@ -165,7 +165,10 @@
           <mxGeometry x="430" y="1880" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="p8umoCd3dgG_TbbseDLM-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1850" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="1850" width="510" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-58" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;前端模块&lt;/h1&gt;&lt;p&gt;1、...&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1880" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
