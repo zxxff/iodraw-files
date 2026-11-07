@@ -26,7 +26,10 @@
           <mxGeometry x="-120" y="560" width="420" height="420" as="geometry" />
         </mxCell>
         <mxCell id="p8umoCd3dgG_TbbseDLM-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;信息处理单元&lt;/h1&gt;&lt;p&gt;输入：电话号码&lt;br&gt;输出：接下来和用户谈什么的具体内容，注入给Agent&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="570" width="180" height="120" as="geometry" />
+          <mxGeometry x="-100" y="570" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
