@@ -140,6 +140,9 @@
         <mxCell id="p8umoCd3dgG_TbbseDLM-48" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;健康状态检测单元&lt;/h1&gt;&lt;p&gt;1、AI状态 - 主线、备用&lt;/p&gt;&lt;p&gt;2、系统性能状态&lt;/p&gt;&lt;p&gt;3、系统运行健康状态&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="1580" width="360" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-49" value="健康状态检测单元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
