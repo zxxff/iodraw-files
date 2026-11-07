@@ -65,7 +65,7 @@
         <mxCell id="p8umoCd3dgG_TbbseDLM-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p8umoCd3dgG_TbbseDLM-11" target="p8umoCd3dgG_TbbseDLM-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p8umoCd3dgG_TbbseDLM-11" value="2、检查注入信息 -- 人工" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p8umoCd3dgG_TbbseDLM-11" value="2、检查是否有人工备注信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-40" y="670" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p8umoCd3dgG_TbbseDLM-13" value="3、整理后的输出" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
