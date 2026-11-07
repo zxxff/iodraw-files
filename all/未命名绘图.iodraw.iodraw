@@ -119,6 +119,9 @@
         <mxCell id="p8umoCd3dgG_TbbseDLM-38" value="当日结算单元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="1010" width="190" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-39" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;结算单元&lt;/h1&gt;&lt;p&gt;1、按时结算&lt;br&gt;&lt;/p&gt;&lt;p&gt;2、结算当日呼出清单&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="960" width="340" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
