@@ -1,25 +1,25 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="DeRu1pq24k-RhZX9201z">
-    <mxGraphModel dx="1624" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1566" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YcNABcLFpoVkjMtgrmDJ-1" value="账户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YcNABcLFpoVkjMtgrmDJ-1" value="账户管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YcNABcLFpoVkjMtgrmDJ-2" value="日志模块&lt;div&gt;1、监视给功能模块&lt;/div&gt;&lt;div&gt;2、监视用户操作&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YcNABcLFpoVkjMtgrmDJ-2" value="日志模块&lt;div&gt;1、监视给功能模块&lt;/div&gt;&lt;div&gt;2、监视用户操作&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YcNABcLFpoVkjMtgrmDJ-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YcNABcLFpoVkjMtgrmDJ-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="-30" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YcNABcLFpoVkjMtgrmDJ-6" value="智能单元&lt;div&gt;（目标）&lt;br&gt;1、注入信息准备 --&amp;nbsp; 注入信息是指拨打电话前，根据历史背景资料，准备好开场白和应对内容&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YcNABcLFpoVkjMtgrmDJ-6" value="智能单元&lt;div&gt;（目标）&lt;br&gt;1、注入信息准备 --&amp;nbsp; 注入信息是指拨打电话前，根据历史背景资料，准备好开场白和应对内容&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-330" y="100" width="270" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="YcNABcLFpoVkjMtgrmDJ-7" value="数据管理&lt;div&gt;1、阿里云通话数据拉取、管理&lt;/div&gt;&lt;div&gt;2、人工对话数据管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YcNABcLFpoVkjMtgrmDJ-7" value="数据管理&lt;div&gt;1、阿里云通话数据拉取、管理&lt;/div&gt;&lt;div&gt;2、人工对话数据管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-290" y="250" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="YcNABcLFpoVkjMtgrmDJ-8" value="大傻瓜酷炫前台&lt;div&gt;可看到&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;可操作&lt;/div&gt;&lt;div&gt;1、人工通话结果上传&lt;/div&gt;&lt;div&gt;2、电话号码数据上传&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YcNABcLFpoVkjMtgrmDJ-8" value="大傻瓜酷炫前台&lt;div&gt;可看到&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;可操作&lt;/div&gt;&lt;div&gt;1、人工通话结果上传&lt;/div&gt;&lt;div&gt;2、电话号码数据上传&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="280" width="370" height="160" as="geometry" />
         </mxCell>
       </root>
