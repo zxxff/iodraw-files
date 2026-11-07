@@ -80,14 +80,14 @@
         <mxCell id="p8umoCd3dgG_TbbseDLM-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-330" y="1010" width="800" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="p8umoCd3dgG_TbbseDLM-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;数据库结构&lt;/h1&gt;&lt;div&gt;1、&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="1030" width="180" height="50" as="geometry" />
+        <mxCell id="p8umoCd3dgG_TbbseDLM-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;数据库结构&lt;/h1&gt;&lt;div&gt;1、数据库的修改，必须留下记录&lt;/div&gt;&lt;div&gt;2、对应的业务代码&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="1030" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="p8umoCd3dgG_TbbseDLM-18" value="&lt;div style=&quot;text-align: left;&quot;&gt;表1: 对话记录表&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1、ID - 用户电话&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2、轮次&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3、通话内容&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;4、拨打状况&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;5、记录&lt;span style=&quot;background-color: initial;&quot;&gt;日期&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="1120" width="190" height="130" as="geometry" />
+          <mxGeometry x="-30" y="1150" width="190" height="130" as="geometry" />
         </mxCell>
         <mxCell id="p8umoCd3dgG_TbbseDLM-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;用户信息表&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1、ID - 用户电话&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2、姓名&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3、对应业务代号&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-45" y="1120" width="190" height="110" as="geometry" />
+          <mxGeometry x="215" y="1150" width="190" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
