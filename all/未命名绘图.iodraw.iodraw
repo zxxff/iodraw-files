@@ -158,6 +158,9 @@
         <mxCell id="p8umoCd3dgG_TbbseDLM-54" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;账户管理单元&lt;/h1&gt;&lt;p&gt;1、支持登录、注销&lt;/p&gt;&lt;p&gt;2、不需要注册&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-260" y="1700" width="280" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1850" width="430" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
