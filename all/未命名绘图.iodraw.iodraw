@@ -62,8 +62,14 @@
         <mxCell id="p8umoCd3dgG_TbbseDLM-10" value="1、根据电话查询数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="700" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p8umoCd3dgG_TbbseDLM-11" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="840" width="120" height="60" as="geometry" />
+        <mxCell id="p8umoCd3dgG_TbbseDLM-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p8umoCd3dgG_TbbseDLM-11" target="p8umoCd3dgG_TbbseDLM-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-11" value="2、取出的数据通话AI处理单元处理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="790" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-13" value="2、取出的数据通话AI处理单元处理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="930" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
