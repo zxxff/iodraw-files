@@ -1,0 +1,161 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="DeRu1pq24k-RhZX9201z">
+    <mxGraphModel dx="2218" dy="1465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YcNABcLFpoVkjMtgrmDJ-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="-30" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="470" width="340" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;信息处理单元&lt;/h1&gt;&lt;p&gt;输入：电话号码&lt;br&gt;输出：接下来和用户谈什么的具体内容，注入给Agent&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="480" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="p8umoCd3dgG_TbbseDLM-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-290" y="680" as="sourcePoint" />
+            <mxPoint x="-200" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-6" value="Phone Number" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="p8umoCd3dgG_TbbseDLM-4" vertex="1" connectable="0">
+          <mxGeometry x="-0.0593" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="p8umoCd3dgG_TbbseDLM-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="770" as="sourcePoint" />
+            <mxPoint x="420" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-8" value="context" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="p8umoCd3dgG_TbbseDLM-7" vertex="1" connectable="0">
+          <mxGeometry x="0.0248" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="p8umoCd3dgG_TbbseDLM-1" target="p8umoCd3dgG_TbbseDLM-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="710" as="sourcePoint" />
+            <mxPoint x="20" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p8umoCd3dgG_TbbseDLM-10" target="p8umoCd3dgG_TbbseDLM-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-10" value="1、根据电话查询数据库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="580" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p8umoCd3dgG_TbbseDLM-11" target="p8umoCd3dgG_TbbseDLM-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-11" value="2、检查是否有人工备注信息" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="670" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-13" value="4、整理后的输出接下来要和用户沟通的内容" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="940" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="1280" width="800" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;数据库结构&lt;/h1&gt;&lt;div&gt;1、数据库的修改，必须留下记录&lt;/div&gt;&lt;div&gt;2、对应的业务代码&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="1300" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-18" value="&lt;div style=&quot;text-align: left;&quot;&gt;表1: 某业务对话记录表&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1、ID - 用户电话&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2、轮次&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3、通话内容&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;4、拨打状况&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;5、记录&lt;span style=&quot;background-color: initial;&quot;&gt;日期&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="1410" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;用户信息表&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1、ID - 用户电话&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2、姓名&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3、对应业务代号&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="1410" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p8umoCd3dgG_TbbseDLM-21" target="p8umoCd3dgG_TbbseDLM-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-21" value="3、调用AI单元" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="770" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="495" width="630" height="645" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-25" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;运作流转机制&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="680" y="540" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-29" value="呼出清单计算单元" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="670" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-30" value="根据电话，执行信息处理单元" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="770" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="480" width="440" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-32" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;系统用户可干预项&lt;/h1&gt;&lt;p&gt;1、系统暂停、启动&lt;/p&gt;&lt;p&gt;2、设定清单呼出数量&lt;/p&gt;&lt;p&gt;3、上传人工通话记录&lt;/p&gt;&lt;p&gt;4、干预呼出内容&lt;/p&gt;&lt;p&gt;5、基本信息查询、修改&lt;/p&gt;&lt;p&gt;6、提前数据结算导出&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="500" width="280" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-33" value="呼出单元" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="860" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="752.5" width="440" height="157.5" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;呼出清单计算单元&lt;/h1&gt;&lt;p&gt;1、能接受临时插入&lt;/p&gt;&lt;p&gt;2、能扩能减 -- 人工干预&lt;/p&gt;&lt;p&gt;3、能设定日期插入&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1430" y="770" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="940" width="440" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-38" value="当日结算单元" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="970" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-39" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;数据结算单元&lt;/h1&gt;&lt;p&gt;1、按时结算&lt;br&gt;&lt;/p&gt;&lt;p&gt;2、结算当日呼出清单，未呼出的号码顺延&lt;/p&gt;&lt;p&gt;3、出具当日数据报表&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="960" width="340" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="1210" width="440" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-41" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;报表生成单元&lt;/h1&gt;&lt;p&gt;1、html 模版&lt;/p&gt;&lt;p&gt;2、当日呼出情况&lt;/p&gt;&lt;p&gt;3、概要总结&lt;/p&gt;&lt;p&gt;4、事项提醒&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="1220" width="340" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="695" y="1270" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-44" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;日志单元&lt;/h1&gt;&lt;p&gt;1、所有记录留痕&lt;/p&gt;&lt;p&gt;2、能追溯执行者，执行时间&lt;/p&gt;&lt;p&gt;3、分模块记录 -- 用户的操作日志、系统运转日志、崩溃日志&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="740" y="1300" width="340" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="695" y="1560" width="445" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-48" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;健康状态检测单元&lt;/h1&gt;&lt;p&gt;1、AI状态 - 主线、备用&lt;/p&gt;&lt;p&gt;2、系统性能状态&lt;/p&gt;&lt;p&gt;3、系统运行健康状态&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="720" y="1580" width="360" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-49" value="健康状态检测单元" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="1540" width="500" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-51" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;AI智能单元&lt;/h1&gt;&lt;p&gt;1、提示词模块管理&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="1560" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-300" y="1670" width="550" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-54" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;账户管理单元&lt;/h1&gt;&lt;p&gt;1、支持登录、注销&lt;/p&gt;&lt;p&gt;2、不需要注册&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-260" y="1700" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1850" width="430" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-56" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;阿里云对接模块&lt;/h1&gt;&lt;p&gt;1&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="430" y="1880" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="1850" width="510" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-58" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;前端模块&lt;/h1&gt;&lt;p&gt;1、...&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="990" y="1880" width="180" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
