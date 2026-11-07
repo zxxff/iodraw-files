@@ -110,8 +110,8 @@
         <mxCell id="p8umoCd3dgG_TbbseDLM-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="752.5" width="440" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="p8umoCd3dgG_TbbseDLM-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;呼出清单计算单元&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="770" width="180" height="120" as="geometry" />
+        <mxCell id="p8umoCd3dgG_TbbseDLM-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;呼出清单计算单元&lt;/h1&gt;&lt;p&gt;1、能接受临时插入&lt;/p&gt;&lt;p&gt;2、能扩能见&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="770" width="340" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
