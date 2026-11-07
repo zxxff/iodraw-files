@@ -135,7 +135,10 @@
           <mxGeometry x="740" y="1300" width="340" height="150" as="geometry" />
         </mxCell>
         <mxCell id="p8umoCd3dgG_TbbseDLM-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="695" y="1560" width="120" height="60" as="geometry" />
+          <mxGeometry x="695" y="1560" width="445" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="p8umoCd3dgG_TbbseDLM-48" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;健康状态检测单元&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1580" width="280" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
