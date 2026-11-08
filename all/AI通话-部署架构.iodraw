@@ -1,0 +1,175 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="AI通话部署架构" id="ai-call-deploy-1">
+    <mxGraphModel dx="1530" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1030" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vpc" value="阿里云 VPC · 生产环境" style="rounded=1;arcSize=3;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#CBD5E1;align=left;verticalAlign=top;spacingLeft=16;spacingTop=10;fontSize=13;fontStyle=1;fontColor=#64748B;dashed=1;dashPattern=10 6;" parent="1" vertex="1">
+          <mxGeometry x="340" y="150" width="1150" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="ecs" value="ECS 2C4G · Linux" style="rounded=1;arcSize=3;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#94A3B8;align=left;verticalAlign=top;spacingLeft=16;spacingTop=10;fontSize=13;fontStyle=1;fontColor=#64748B;dashed=1;dashPattern=10 6;" parent="1" vertex="1">
+          <mxGeometry x="380" y="220" width="430" height="465" as="geometry" />
+        </mxCell>
+        <mxCell id="e-browser-nginx" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;strokeColor=#94A3B8;endArrow=block;endFill=1;endSize=7;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="browser" target="nginx" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-browser-nginx-label" value="HTTPS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=#475569;labelBackgroundColor=#FFFFFF;" parent="e-browser-nginx" vertex="1" connectable="0">
+          <mxGeometry x="0.5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-nginx-web" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;strokeColor=#94A3B8;endArrow=block;endFill=1;endSize=7;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nginx" target="web" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-web-rds" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;strokeColor=#F59E0B;endArrow=block;endFill=1;endSize=7;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="web" target="rds" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="388" />
+              <mxPoint x="840" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-web-rds-label" value="业务数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=#475569;labelBackgroundColor=#FFFFFF;" parent="e-web-rds" vertex="1" connectable="0">
+          <mxGeometry x="0.5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-worker-rds" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;strokeColor=#14B8A6;endArrow=block;endFill=1;endSize=7;exitX=1;exitY=0.35;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="worker" target="rds" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="574" />
+              <mxPoint x="870" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-worker-rds-label" value="DB 队列" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=#475569;labelBackgroundColor=#FFFFFF;" parent="e-worker-rds" vertex="1" connectable="0">
+          <mxGeometry x="0.5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-worker-oss" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;strokeColor=#14B8A6;endArrow=block;endFill=1;endSize=7;exitX=1;exitY=0.65;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="worker" target="oss" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="610" />
+              <mxPoint x="860" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-worker-oss-label" value="录音转存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=#475569;labelBackgroundColor=#FFFFFF;" parent="e-worker-oss" vertex="1" connectable="0">
+          <mxGeometry x="0.5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-worker-aiccs" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;strokeColor=#6366F1;endArrow=block;endFill=1;endSize=7;exitX=1;exitY=0.9;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="worker" target="aiccs" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="640" />
+              <mxPoint x="830" y="800" />
+              <mxPoint x="1505" y="800" />
+              <mxPoint x="1505" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-worker-aiccs-label" value="外呼请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=#475569;labelBackgroundColor=#FFFFFF;" parent="e-worker-aiccs" vertex="1" connectable="0">
+          <mxGeometry x="0.5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-aiccs-web" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;strokeColor=#6366F1;endArrow=block;endFill=1;endSize=7;dashed=1;dashPattern=7 5;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.475;entryDx=0;entryDy=0;" parent="1" source="aiccs" target="web" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1535" y="330" />
+              <mxPoint x="1535" y="190" />
+              <mxPoint x="850" y="190" />
+              <mxPoint x="850" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-aiccs-web-label" value="回执（HTTP）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=#475569;labelBackgroundColor=#FFFFFF;" parent="e-aiccs-web" vertex="1" connectable="0">
+          <mxGeometry x="0.5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-aiccs-callee" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;strokeColor=#6366F1;endArrow=block;endFill=1;endSize=7;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aiccs" target="callee" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-aiccs-callee-label" value="运营商线路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=#475569;labelBackgroundColor=#FFFFFF;" parent="e-aiccs-callee" vertex="1" connectable="0">
+          <mxGeometry x="0.5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-deepseek-aiccs" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;strokeColor=#8B5CF6;endArrow=block;endFill=1;endSize=7;dashed=1;dashPattern=7 5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="deepseek" target="aiccs" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-deepseek-aiccs-label" value="模型推理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=#475569;labelBackgroundColor=#FFFFFF;" parent="e-deepseek-aiccs" vertex="1" connectable="0">
+          <mxGeometry x="0.5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-worker-monitor" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;strokeColor=#94A3B8;endArrow=block;endFill=1;endSize=7;dashed=1;dashPattern=7 5;exitX=0.9;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="worker" target="monitor" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="735" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-worker-monitor-label" value="指标 / 心跳" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=#475569;labelBackgroundColor=#FFFFFF;" parent="e-worker-monitor" vertex="1" connectable="0">
+          <mxGeometry x="0.5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="title" value="AI 智能通话系统 · 部署架构" style="text;html=1;align=left;verticalAlign=middle;fontSize=30;fontColor=#0F172A;fontStyle=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="14" width="1700" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" value="单台 ECS 双进程 · MySQL 8 · OSS · 阿里云通信智能引擎" style="text;html=1;align=left;verticalAlign=middle;fontSize=13;fontColor=#64748B;fontStyle=0;" parent="1" vertex="1">
+          <mxGeometry x="62" y="68" width="1700" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="legend" value="实线 = 请求 / 数据流　　虚线 = 回执 / 监控 / 模型调用" style="text;html=1;align=left;verticalAlign=middle;fontSize=11;fontColor=#94A3B8;fontStyle=0;" parent="1" vertex="1">
+          <mxGeometry x="62" y="98" width="900" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nginx" value="&lt;div style=&quot;font-size:16px;font-weight:700;color:#334155;margin-bottom:8px;&quot;&gt;Nginx&lt;/div&gt;&lt;div style=&quot;font-size:12px;line-height:1.7;color:#334155;&quot;&gt;• HTTPS · 静态资源 · 限流&lt;/div&gt;" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#CBD5E1;align=left;verticalAlign=top;spacingLeft=16;spacingRight=16;spacingTop=14;spacingBottom=12;" parent="1" vertex="1">
+          <mxGeometry x="420" y="265" width="350" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="web" value="&lt;div style=&quot;font-size:17px;font-weight:700;color:#1E3A8A;margin-bottom:8px;&quot;&gt;Web 进程&lt;/div&gt;&lt;div style=&quot;font-size:12px;line-height:1.7;color:#334155;&quot;&gt;• 前端 API · 管理后台&lt;br&gt;• 回执接收（快速落库）&lt;br&gt;• 账户 / 名单 / 任务 / 报表&lt;/div&gt;" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#BFDBFE;align=left;verticalAlign=top;spacingLeft=16;spacingRight=16;spacingTop=14;spacingBottom=12;" parent="1" vertex="1">
+          <mxGeometry x="420" y="358" width="350" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="same-code" value="同一份代码 · 两个 systemd service" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#64748B;fontStyle=2;" parent="1" vertex="1">
+          <mxGeometry x="420" y="494" width="350" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="worker" value="&lt;div style=&quot;font-size:17px;font-weight:700;color:#134E4A;margin-bottom:8px;&quot;&gt;Worker 进程&lt;/div&gt;&lt;div style=&quot;font-size:12px;line-height:1.7;color:#334155;&quot;&gt;• DB 队列 · 信息处理 · 呼出&lt;br&gt;• 回执加工 · 录音转存&lt;br&gt;• 日结 · 日报 · 健康心跳&lt;/div&gt;" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F0FDFA;strokeColor=#99F6E4;align=left;verticalAlign=top;spacingLeft=16;spacingRight=16;spacingTop=14;spacingBottom=12;" parent="1" vertex="1">
+          <mxGeometry x="420" y="532" width="350" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rds" value="&lt;div style=&quot;font-size:16px;font-weight:700;color:#78350F;margin-bottom:8px;&quot;&gt;RDS MySQL 8&lt;/div&gt;&lt;div style=&quot;font-size:12px;line-height:1.7;color:#334155;&quot;&gt;• 业务表 · DB 队列&lt;br&gt;• 日结 / 对账数据&lt;/div&gt;" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFBEB;strokeColor=#FDE68A;align=left;verticalAlign=top;spacingLeft=16;spacingRight=16;spacingTop=14;spacingBottom=12;" parent="1" vertex="1">
+          <mxGeometry x="900" y="265" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="backup-note" value="自动备份 + 每周导出 OSS" style="text;html=1;align=center;verticalAlign=middle;fontSize=10;fontColor=#92400E;fontStyle=2;" parent="1" vertex="1">
+          <mxGeometry x="900" y="373" width="290" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="oss" value="&lt;div style=&quot;font-size:16px;font-weight:700;color:#78350F;margin-bottom:8px;&quot;&gt;OSS&lt;/div&gt;&lt;div style=&quot;font-size:12px;line-height:1.7;color:#334155;&quot;&gt;• 录音转存（7 天内）&lt;br&gt;• 导出文件 / 备份&lt;/div&gt;" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFBEB;strokeColor=#FDE68A;align=left;verticalAlign=top;spacingLeft=16;spacingRight=16;spacingTop=14;spacingBottom=12;" parent="1" vertex="1">
+          <mxGeometry x="900" y="450" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="monitor" value="&lt;div style=&quot;font-size:16px;font-weight:700;color:#4C1D95;margin-bottom:8px;&quot;&gt;云监控 + 告警&lt;/div&gt;&lt;div style=&quot;font-size:12px;line-height:1.7;color:#334155;&quot;&gt;• 进程心跳 · 失败率&lt;br&gt;• 磁盘 / 余额&lt;br&gt;• → 企业微信 / 钉钉&lt;/div&gt;" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F5F3FF;strokeColor=#DDD6FE;align=left;verticalAlign=top;spacingLeft=16;spacingRight=16;spacingTop=14;spacingBottom=12;" parent="1" vertex="1">
+          <mxGeometry x="900" y="620" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="guard" value="&lt;div style=&quot;font-size:16px;font-weight:700;color:#334155;margin-bottom:8px;&quot;&gt;运行保障&lt;/div&gt;&lt;div style=&quot;font-size:12px;line-height:1.7;color:#334155;&quot;&gt;• systemd Restart=always&lt;br&gt;• 开机自启 · SIGTERM 优雅退出&lt;br&gt;• logrotate 日志轮转&lt;/div&gt;" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#CBD5E1;align=left;verticalAlign=top;spacingLeft=16;spacingRight=16;spacingTop=14;spacingBottom=12;" parent="1" vertex="1">
+          <mxGeometry x="400" y="750" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="browser" value="&lt;div style=&quot;font-size:16px;font-weight:700;color:#334155;margin-bottom:8px;&quot;&gt;用户浏览器&lt;/div&gt;&lt;div style=&quot;font-size:12px;line-height:1.7;color:#334155;&quot;&gt;• 运营 / 管理员&lt;/div&gt;" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#CBD5E1;align=left;verticalAlign=top;spacingLeft=16;spacingRight=16;spacingTop=14;spacingBottom=12;" parent="1" vertex="1">
+          <mxGeometry x="40" y="265" width="240" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="deepseek" value="&lt;div style=&quot;font-size:16px;font-weight:700;color:#4C1D95;margin-bottom:8px;&quot;&gt;DeepSeek&lt;/div&gt;&lt;div style=&quot;font-size:12px;line-height:1.7;color:#334155;&quot;&gt;• 经阿里大模型网关&lt;br&gt;• 由 AICCS 侧调用&lt;/div&gt;" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F5F3FF;strokeColor=#DDD6FE;align=left;verticalAlign=top;spacingLeft=16;spacingRight=16;spacingTop=14;spacingBottom=12;" parent="1" vertex="1">
+          <mxGeometry x="1560" y="180" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aiccs" value="&lt;div style=&quot;font-size:16px;font-weight:700;color:#312E81;margin-bottom:8px;&quot;&gt;阿里云通信智能引擎&lt;/div&gt;&lt;div style=&quot;font-size:12px;line-height:1.7;color:#334155;&quot;&gt;• LlmSmartCall 外呼&lt;br&gt;• 回执（MNS / HTTP）&lt;br&gt;• 录音 URL（7 天）&lt;br&gt;• 大模型网关&lt;/div&gt;" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#EEF2FF;strokeColor=#C7D2FE;align=left;verticalAlign=top;spacingLeft=16;spacingRight=16;spacingTop=14;spacingBottom=12;" parent="1" vertex="1">
+          <mxGeometry x="1560" y="330" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="callee" value="&lt;div style=&quot;font-size:16px;font-weight:700;color:#334155;margin-bottom:8px;&quot;&gt;被叫用户&lt;/div&gt;&lt;div style=&quot;font-size:12px;line-height:1.7;color:#334155;&quot;&gt;• 运营商线路&lt;/div&gt;" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#CBD5E1;align=left;verticalAlign=top;spacingLeft=16;spacingRight=16;spacingTop=14;spacingBottom=12;" parent="1" vertex="1">
+          <mxGeometry x="1560" y="560" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="notes" value="&lt;b&gt;队列&lt;/b&gt;　MySQL 表 + SKIP LOCKED（暂不引入 Redis / MQ）　　&lt;b&gt;录音&lt;/b&gt;　URL 7 天内转存 OSS，不落本地盘　　&lt;b&gt;回执&lt;/b&gt;　Web 只落库，加工交给 Worker　　&lt;b&gt;可靠性&lt;/b&gt;　心跳 + 每日对账 + RDS 备份" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#E2E8F0;align=left;verticalAlign=middle;spacingLeft=18;spacingRight=18;fontSize=12;fontColor=#475569;" parent="1" vertex="1">
+          <mxGeometry x="40" y="940" width="1920" height="58" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
